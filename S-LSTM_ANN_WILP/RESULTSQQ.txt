@@ -1,0 +1,2607 @@
+Question is the engine is not running
+++++++++++++++++++++++++++++++++
+Result 1
+how to store project
+take snapp shots of results n save in ur dwesktop
+Similarity Score : 0.34835544
+++++++++++++++++++++++++++++++++
+Result 2
+but why c atoms are coming twice
+To Show the 'C' in design panel -> Click on [show C] or [Hide C](it is available above the above the design panel area)
+Similarity Score : 0.30661604
+++++++++++++++++++++++++++++++++
+Result 3
+FAILED ERROR IS COMING
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.29975858
+++++++++++++++++++++++++++++++++
+Result 4
+Sir, once again FORK Error
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.28978083
+++++++++++++++++++++++++++++++++
+Result 5
+elapsed time is stooped
+close previous monomer n try
+Similarity Score : 0.28633446
+++++++++++++++++++++++++++++++++
+Result 6
+direct me to polystyrene window
+double click on polystyrene u will get the window
+Similarity Score : 0.27425024
+++++++++++++++++++++++++++++++++
+Result 7
+while creating polymer licence error
+Put the image here please
+Similarity Score : 0.27270985
+++++++++++++++++++++++++++++++++
+Result 8
+not able to see the bond between carbon & benzene
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.24551582
+++++++++++++++++++++++++++++++++
+Result 9
+Hi.. sorry to disturb.. but my J-Octa is struck
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.2454158
+++++++++++++++++++++++++++++++++
+Result 10
+FORK error
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.24507038
+++++++++++++++++++++++++++++++++
+Result 11
+Hi got disconnected, could you see
+its connected
+Similarity Score : 0.2431863
+++++++++++++++++++++++++++++++++
+Result 12
+I am doing Rheology calculation tutorial and whle plotting the graph the error came called fork error
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.23398621
+++++++++++++++++++++++++++++++++
+Result 13
+when i am creating it is againn showing one time error
+read the tutorial properly
+Similarity Score : 0.23358986
+++++++++++++++++++++++++++++++++
+Result 14
+or have to do for two separate malecules
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.23214948
+++++++++++++++++++++++++++++++++
+Result 15
+error is displaying
+check the steps again
+Similarity Score : 0.22335029
+++++++++++++++++++++++++++++++++
+Result 16
+I am seeing different screens. connecting again
+ok try now
+Similarity Score : 0.22013503
+++++++++++++++++++++++++++++++++
+Result 17
+i am getting fork error
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.21260864
+++++++++++++++++++++++++++++++++
+Result 18
+and in the elastica tutorial, we stated component 0 and 1.
+It is two different  materials
+Similarity Score : 0.21254991
+++++++++++++++++++++++++++++++++
+Result 19
+BUT MM IS GIVING ERROR
+redo with steps
+Similarity Score : 0.21111298
+++++++++++++++++++++++++++++++++
+Result 20
+can you please open the J octa software hang
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.20442082
+++++++++++++++++++++++++++++++++
+Result 21
+again FORK Error sir
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.2031165
+++++++++++++++++++++++++++++++++
+Result 22
+software got hanged?
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.19871488
+++++++++++++++++++++++++++++++++
+Result 23
+It's showing some licence error
+disconnect and connect again please n proceed
+Similarity Score : 0.19738254
+++++++++++++++++++++++++++++++++
+Result 24
+software take h atom automatically na?
+Based on Chemical Structure of the monme
+Similarity Score : 0.19215544
+++++++++++++++++++++++++++++++++
+Result 25
+full black..cant able to see anything
+disconnect and connect again
+Similarity Score : 0.19001241
+++++++++++++++++++++++++++++++++
+Result 26
+can you close the mm window
+keep the cursor on the bottom of that MM tab and minimize it I vl show close option
+Similarity Score : 0.18575855
+++++++++++++++++++++++++++++++++
+Result 27
+Still J Octa is loading
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.18471578
+++++++++++++++++++++++++++++++++
+Result 28
+hi.. there was socket error
+disconnect and connect again please
+Similarity Score : 0.1838583
+++++++++++++++++++++++++++++++++
+Result 29
+now it is throwing error
+now opened u can carry on
+Similarity Score : 0.18091735
+++++++++++++++++++++++++++++++++
+Result 30
+why carbon atoms are disappearing?
+click on th option to display it vl show on desktop
+Similarity Score : 0.18063034
+++++++++++++++++++++++++++++++++
+Result 31
+i am getting .prp file error
+Students has to create project or saving files
+Similarity Score : 0.17877278
+++++++++++++++++++++++++++++++++
+Result 32
+not able to make bonds
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.17861257
+++++++++++++++++++++++++++++++++
+Result 33
+whether the modelling done will be  considers for evaluation?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.17752887
+++++++++++++++++++++++++++++++++
+Result 34
+can you please start the simulation for me
+Login and start
+Similarity Score : 0.17664224
+++++++++++++++++++++++++++++++++
+Result 35
+I am getting error
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.17464095
+++++++++++++++++++++++++++++++++
+Result 36
+what was the error
+first you to select benzene drag box and select the elements
+Similarity Score : 0.17385894
+++++++++++++++++++++++++++++++++
+Result 37
+do i need to save that model on J octa
+no need
+Similarity Score : 0.17284238
+++++++++++++++++++++++++++++++++
+Result 38
+the j octa software got closed
+log off login again
+Similarity Score : 0.16989417
+++++++++++++++++++++++++++++++++
+Result 39
+getting error message
+connect wit anydesk to above id
+Similarity Score : 0.16969158
+++++++++++++++++++++++++++++++++
+Result 40
+in tutorial repeat of styrene alone to get polystyrene is given, but it doesnt say how butadiene 10 styrene 5 repeats can be combined?
+individual repeat in a combined model B[10]+s[15]
+Similarity Score : 0.16789362
+++++++++++++++++++++++++++++++++
+Result 41
+but how to choose means how to decide which solver we need to use?
+it differs based on th problems
+Similarity Score : 0.16779295
+++++++++++++++++++++++++++++++++
+Result 42
+is polyethylene is rheological polymer
+Rheology is the state of fluid non newtanion
+Similarity Score : 0.16501999
+++++++++++++++++++++++++++++++++
+Result 43
+plea help me to out of this, iam struggling for almost 1.5 hrs for same error
+input data you enter is wrong
+Similarity Score : 0.16445868
+++++++++++++++++++++++++++++++++
+Result 44
+Yes but slow process....May u pls click on generate command for fast process...as here curser  is rounding from last 4 minutes.
+connect again
+Similarity Score : 0.16362233
+++++++++++++++++++++++++++++++++
+Result 45
+where can i find the prop of polymer
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.16131596
+++++++++++++++++++++++++++++++++
+Result 46
+want to see stree strain curve
+no Stress strain is extended analysis
+Similarity Score : 0.16084008
+++++++++++++++++++++++++++++++++
+Result 47
+is it used only to understand the energy interactions?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.15914552
+++++++++++++++++++++++++++++++++
+Result 48
+can you help me opening J octa got hang
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.15876554
+++++++++++++++++++++++++++++++++
+Result 49
+software is not working properly
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.1573138
+++++++++++++++++++++++++++++++++
+Result 50
+C is not visible to me
+   Click on C < button on the table
+Similarity Score : 0.15534143
+++++++++++++++++++++++++++++++++
+Result 51
+ctually i am not getting that excel for polymer
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.15479816
+++++++++++++++++++++++++++++++++
+Result 52
+can u pls send me the data of j-octa....
+plz write a mail to wise
+Similarity Score : 0.15460235
+++++++++++++++++++++++++++++++++
+Result 53
+Could you please help me in figuring out the polymer model to be built in J-Octa
+we will provide during your session
+Similarity Score : 0.15360203
+++++++++++++++++++++++++++++++++
+Result 54
+WHAT EVER YOU CREATED ALSO WAS GIVING ERROR!
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.15316375
+++++++++++++++++++++++++++++++++
+Result 55
+its showing privacy error
+disconnect and connect again please
+Similarity Score : 0.15266328
+++++++++++++++++++++++++++++++++
+Result 56
+there is some error
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.15253757
+++++++++++++++++++++++++++++++++
+Result 57
+shall I close extra windows of j Octa?
+okay
+Similarity Score : 0.15244994
+++++++++++++++++++++++++++++++++
+Result 58
+when I am trying to drag n drop butadiene its giving error
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.15019725
+++++++++++++++++++++++++++++++++
+Result 59
+socket error ??
+disconnect and connect again please
+Similarity Score : 0.148961
+++++++++++++++++++++++++++++++++
+Result 60
+what is this fork error m geting
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.14877108
+++++++++++++++++++++++++++++++++
+Result 61
+which bond to be take between butadine and styrene
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.1474227
+++++++++++++++++++++++++++++++++
+Result 62
+It said socket error
+disconnect and connect again please
+Similarity Score : 0.14682262
+++++++++++++++++++++++++++++++++
+Result 63
+I mean I had saved styrene in it and I want to use that now??
+no u need to start from new
+Similarity Score : 0.14490128
+++++++++++++++++++++++++++++++++
+Result 64
+is it saved automatically?
+its shows a pop up\ then u need to save
+Similarity Score : 0.14174291
+++++++++++++++++++++++++++++++++
+Result 65
+MM CALCULATIONS IS SHOWING ERROR
+plz follow the steps once
+Similarity Score : 0.14156593
+++++++++++++++++++++++++++++++++
+Result 66
+I guess, I am following all steps, but still getting error
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.14153071
+++++++++++++++++++++++++++++++++
+Result 67
+still in MM I am getting some blank parameters
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.14047608
+++++++++++++++++++++++++++++++++
+Result 68
+where to save j octa files
+desktop
+Similarity Score : 0.13812467
+++++++++++++++++++++++++++++++++
+Result 69
+How long does it take for j cota to start?
+download anydesk form google and install in your system
+Similarity Score : 0.13789532
+++++++++++++++++++++++++++++++++
+Result 70
+there is no other J-octa window opened sir
+disconnect and connect again
+Similarity Score : 0.13678533
+++++++++++++++++++++++++++++++++
+Result 71
+Sir..unable to perform operations in J-Octa
+u are not connected , plz connect through anydesk
+Similarity Score : 0.13516152
+++++++++++++++++++++++++++++++++
+Result 72
+J-Octa Monomer & Polymer
+assignment is opened on the screen , go ahead and perform
+Similarity Score : 0.13422337
+++++++++++++++++++++++++++++++++
+Result 73
+telling as license error
+recconect
+Similarity Score : 0.13361908
+++++++++++++++++++++++++++++++++
+Result 74
+sir again request highlighted in fron of screen by " aditi-pc-54@ad(943616254), if i reject ,it is not going out of screen, pls suggest
+pls decline
+Similarity Score : 0.13244435
+++++++++++++++++++++++++++++++++
+Result 75
+when i click on the screen small red slashed icon appears and dimnishes
+recconect
+Similarity Score : 0.13070996
+++++++++++++++++++++++++++++++++
+Result 76
+Then Do I need to create monomer again
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.13018982
+++++++++++++++++++++++++++++++++
+Result 77
+is it a composite material that we are trying to analyse?
+yes One inside other
+Similarity Score : 0.13003789
+++++++++++++++++++++++++++++++++
+Result 78
+the type of solver mosemi or gaussian how to choose?
+ finish th practice u will get to know
+Similarity Score : 0.1292579
+++++++++++++++++++++++++++++++++
+Result 79
+where are the inputs butadiene and styrene?
+read the question and proceed
+Similarity Score : 0.1292103
+++++++++++++++++++++++++++++++++
+Result 80
+Could you pls tell me which graph to be selected?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.12759018
+++++++++++++++++++++++++++++++++
+Result 81
+where it is saved,i cant find it
+create again in desktop
+Similarity Score : 0.12674429
+++++++++++++++++++++++++++++++++
+Result 82
+It's showing client is offline
+disconnect and connect again
+Similarity Score : 0.12659156
+++++++++++++++++++++++++++++++++
+Result 83
+Could you help me out to take up Octa Lab practice
+u will get the tutorial
+Similarity Score : 0.12637012
+++++++++++++++++++++++++++++++++
+Result 84
+do i need to make separate polymerazation of butadine and styrene
+no couple both
+Similarity Score : 0.1258323
+++++++++++++++++++++++++++++++++
+Result 85
+error showing client offline
+disconnect and connect again please
+Similarity Score : 0.12538871
+++++++++++++++++++++++++++++++++
+Result 86
+are we to model the acrylonitrile styrene and butadine at once or separately?
+pls follow tutorial
+Similarity Score : 0.12508628
+++++++++++++++++++++++++++++++++
+Result 87
+which polymer structure properties are to be tabulated?
+Take screen shots of results as per problem statement and prepare report in any format like ppt or pdf etc.,
+Similarity Score : 0.12487606
+++++++++++++++++++++++++++++++++
+Result 88
+sir... is it possible to increase screen size or decrease resolution of the screen?
+highlight geometry and under details select structural steel under assignment
+Similarity Score : 0.1232675
+++++++++++++++++++++++++++++++++
+Result 89
+its fatal error it say...
+Don't add Space or any special Characters while creating folder name and new project.
+Similarity Score : 0.12211012
+++++++++++++++++++++++++++++++++
+Result 90
+Oh i understand that i need to make two different ;olymers and then stitch them??
+Both individual repeats and combined in polymer  section
+Similarity Score : 0.122101136
+++++++++++++++++++++++++++++++++
+Result 91
+what do i do to view the curve plotted
+That is not configured in the current tutorial
+Similarity Score : 0.12192285
+++++++++++++++++++++++++++++++++
+Result 92
+it is showing run time error
+read the tutorial properly
+Similarity Score : 0.12124598
+++++++++++++++++++++++++++++++++
+Result 93
+bt why the  deformation is diff
+u did some mistake in steps close n redo again
+Similarity Score : 0.121145435
+++++++++++++++++++++++++++++++++
+Result 94
+please help me in opening J OCTA got hang
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.11959488
+++++++++++++++++++++++++++++++++
+Result 95
+can you please let me know why field option is not coming?
+redo
+Similarity Score : 0.11940158
+++++++++++++++++++++++++++++++++
+Result 96
+what is the application of polymer analysis?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.11677919
+++++++++++++++++++++++++++++++++
+Result 97
+i got this image, but stress values are very less
+check your inputs also
+Similarity Score : 0.11676123
+++++++++++++++++++++++++++++++++
+Result 98
+one of styrene and one of butadiene
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.11660403
+++++++++++++++++++++++++++++++++
+Result 99
+I am getting error while registering the Butadine in polymrer
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.11640622
+++++++++++++++++++++++++++++++++
+Result 100
+why I cant see the C symbol
+click on hide c or show c above the graphic region
+Similarity Score : 0.11567032
+++++++++++++++++++++++++++++++++
+Result 101
+should I close this styrene and polymer?
+create new project and go ahead with next tutorial\
+Similarity Score : 0.114731155
+++++++++++++++++++++++++++++++++
+Result 102
+Error is coming in...J-OCTA
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.11428205
+++++++++++++++++++++++++++++++++
+Result 103
+final field created is not coming
+Follow the tutorial correctly
+Similarity Score : 0.114122175
+++++++++++++++++++++++++++++++++
+Result 104
+automatically
+log off login again
+Similarity Score : 0.11354935
+++++++++++++++++++++++++++++++++
+Result 105
+Hi J-Octa is not responding to my mouse or Keyboard. Could you help me
+disconnect and connect again please
+Similarity Score : 0.112774454
+++++++++++++++++++++++++++++++++
+Result 106
+Simulation is stuck again
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.111422785
+++++++++++++++++++++++++++++++++
+Result 107
+Ok....have to start from 0 or what is left?
+from first
+Similarity Score : 0.11087842
+++++++++++++++++++++++++++++++++
+Result 108
+No I didnt understand the question, thats y asked. In the question is given as butadiene 10 & styrene 5 repeats. Can u please clarify the question? before i start
+Plz go and check in the tutorial
+Similarity Score : 0.110676646
+++++++++++++++++++++++++++++++++
+Result 109
+Perform the polymer modelling and fully atomistic molecular dynamics simulation for 5 Linear Polymer structure.?
+styrene repeat 5 times and butadine repeat 10 times as u done in tutorial 1
+Similarity Score : 0.11065675
+++++++++++++++++++++++++++++++++
+Result 110
+Perform the polymer modelling and fully atomistic molecular dynamics simulation for 5 Linear Polymer structure.
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.11065675
+++++++++++++++++++++++++++++++++
+Result 111
+iam finding it very difficult to operate
+disconnect and connect again
+Similarity Score : 0.109637566
+++++++++++++++++++++++++++++++++
+Result 112
+Not able to draw line in software
+wait n check again
+Similarity Score : 0.10890928
+++++++++++++++++++++++++++++++++
+Result 113
+Now got stuck with graph type selection
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.10874256
+++++++++++++++++++++++++++++++++
+Result 114
+What to enter in polymer tab
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.10743359
+++++++++++++++++++++++++++++++++
+Result 115
+I didn't get any result through J-octa
+.Don't add Space or any special Characters while creating folder name and new project.
+Similarity Score : 0.10740392
+++++++++++++++++++++++++++++++++
+Result 116
+J octa not working
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.1067827
+++++++++++++++++++++++++++++++++
+Result 117
+will i have to model either 10 polystyrene or 5 polybutadiene or will i have to model polystyrene-butadiene
+check wit tutorial u vl clarify that
+Similarity Score : 0.10643795
+++++++++++++++++++++++++++++++++
+Result 118
+Again hang on thermocouple command nothing is moving
+connect again
+Similarity Score : 0.10635154
+++++++++++++++++++++++++++++++++
+Result 119
+2. Tabulate the polymer structure property?
+1st Answer: U can skip the step in tutorial page (23-25) and   2nd Answer: To rotate the structure Click ( Ctrl+ LMB) on one node and again select the other node then click okay. 
+Similarity Score : 0.106197916
+++++++++++++++++++++++++++++++++
+Result 120
+again not getting cursor control
+reconnect
+Similarity Score : 0.104797676
+++++++++++++++++++++++++++++++++
+Result 121
+Hang out problem again on solver comand
+disconnect and connect again please
+Similarity Score : 0.10453761
+++++++++++++++++++++++++++++++++
+Result 122
+j-0cta is not working
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.10345573
+++++++++++++++++++++++++++++++++
+Result 123
+after putting the start , it is not resolving the problem
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.10333423
+++++++++++++++++++++++++++++++++
+Result 124
+J octa is not starting
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.10333031
+++++++++++++++++++++++++++++++++
+Result 125
+in the polymer anaylsis, unlike monomer, we didnt get any output in the form of excel values
+You will get the properties when you perform molecular dynamics
+Similarity Score : 0.103203386
+++++++++++++++++++++++++++++++++
+Result 126
+Hi, am getting the pop-up MM-calculation failed instead of MM-calculation has done in J-OCTA
+While Creating project students should not use Special characters forexample space, @,#,$,_ ect.,
+Similarity Score : 0.10212412
+++++++++++++++++++++++++++++++++
+Result 127
+Is it possible to provide input data...so i can take hard copy prints.
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.1011278
+++++++++++++++++++++++++++++++++
+Result 128
+There is confusion between styrene model
+go through tutorials properly
+Similarity Score : 0.100155205
+++++++++++++++++++++++++++++++++
+Result 129
+in tutorial 2, fork error is occurring in polymer property feed
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.10014622
+++++++++++++++++++++++++++++++++
+Result 130
+what's the error "??
+Black Screen happens when user opens more than on application software
+Similarity Score : 0.0997157
+++++++++++++++++++++++++++++++++
+Result 131
+have retried with no space, same error
+check it properly that is the error
+Similarity Score : 0.099555455
+++++++++++++++++++++++++++++++++
+Result 132
+plz tabulate d polymer structure property
+follow tutorial step by step clearly
+Similarity Score : 0.09928141
+++++++++++++++++++++++++++++++++
+Result 133
+can u plz tell me how the properties are selected for rheolegy& relaxation modulus?
+using amber, gaff...how i'll get to know which one and why we are using this
+Similarity Score : 0.099154264
+++++++++++++++++++++++++++++++++
+Result 134
+While forming Monomer ..When i try to make bond between Carbon and Benzene.. Carbon atom is disappearing
+click on c< button and show C atom
+Similarity Score : 0.098106034
+++++++++++++++++++++++++++++++++
+Result 135
+wt is this error message denote
+   u have given space in ur file name
+Similarity Score : 0.09786669
+++++++++++++++++++++++++++++++++
+Result 136
+How to switch between windows
+its in dsktop only ...pls refer
+Similarity Score : 0.097519495
+++++++++++++++++++++++++++++++++
+Result 137
+here i can see Butadiene bt it shows bit different
+pls follow standard procedure
+Similarity Score : 0.09638933
+++++++++++++++++++++++++++++++++
+Result 138
+why operation is not getting performed?
+disconnect and connect again
+Similarity Score : 0.096253864
+++++++++++++++++++++++++++++++++
+Result 139
+the error is  ERROR occurred while loading
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.09577441
+++++++++++++++++++++++++++++++++
+Result 140
+Having query.. polybutadiene- styrene---- is it a single molecule
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.09567215
+++++++++++++++++++++++++++++++++
+Result 141
+hi are we to set the total charge to zero.??
+pls follow tutorial
+Similarity Score : 0.09544835
+++++++++++++++++++++++++++++++++
+Result 142
+hi can I do list copy and save it...
+List copy and paste to excel in your machine
+Similarity Score : 0.09533238
+++++++++++++++++++++++++++++++++
+Result 143
+there is error in Force field
+don't use special characters while creating any foldes
+Similarity Score : 0.095196016
+++++++++++++++++++++++++++++++++
+Result 144
+It shows socket error
+reconnect again system got hang so
+Similarity Score : 0.09395963
+++++++++++++++++++++++++++++++++
+Result 145
+similarly 2 separate polymers need to be generated right?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.09371552
+++++++++++++++++++++++++++++++++
+Result 146
+WHILE OPENING J OCTA IT IS INVALID LICENSE
+ok for j octa we ll provide anydesk id take it and perform
+Similarity Score : 0.09313986
+++++++++++++++++++++++++++++++++
+Result 147
+Its black again
+reconnect again
+Similarity Score : 0.092129216
+++++++++++++++++++++++++++++++++
+Result 148
+Looks different, I am not sure what is butadiene
+read the problem statement and proceed
+Similarity Score : 0.0918139
+++++++++++++++++++++++++++++++++
+Result 149
+it is ot showing the muffin created
+check the steps againg
+Similarity Score : 0.091575176
+++++++++++++++++++++++++++++++++
+Result 150
+Team could you give me credential & assignment on J-octa to complete
+wait a min we will provide
+Similarity Score : 0.09124635
+++++++++++++++++++++++++++++++++
+Result 151
+sir while i am conecting carbon to terminator carbon goes missing
+Show the 'C' in design panel - click on show C/ hide C
+Similarity Score : 0.09110372
+++++++++++++++++++++++++++++++++
+Result 152
+we donot have save as option , i am unable to save file in the name :
+it is already save as styrene, plz continue further stpes
+Similarity Score : 0.09096652
+++++++++++++++++++++++++++++++++
+Result 153
+can you pls help me select by dragging the box
+left click n drag
+Similarity Score : 0.0900673
+++++++++++++++++++++++++++++++++
+Result 154
+i done again mm
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.08964582
+++++++++++++++++++++++++++++++++
+Result 155
+Again hanged in graph..
+book the slot and continue
+Similarity Score : 0.089555174
+++++++++++++++++++++++++++++++++
+Result 156
+is there a size limit for the file to be sent
+no
+Similarity Score : 0.088945486
+++++++++++++++++++++++++++++++++
+Result 157
+I don't find udf polybutadine
+check if u have bonded hydrogen in butadine; hydrogen bond is not required- you will be calculating charges and force manually that will calculate the  hydrogen  atoms; it is a duplicate look at styrene we use only C bonds, H is taken care similarly model for butadien 
+Similarity Score : 0.087793574
+++++++++++++++++++++++++++++++++
+Result 158
+i have tried it by redoing and too it remain same
+redo
+Similarity Score : 0.08778617
+++++++++++++++++++++++++++++++++
+Result 159
+J octa is still loading
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.087644294
+++++++++++++++++++++++++++++++++
+Result 160
+Cursor is not operating in the Software..
+close anydesk and then reconnect plz
+Similarity Score : 0.08663294
+++++++++++++++++++++++++++++++++
+Result 161
+i am unable to type file name
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.08662432
+++++++++++++++++++++++++++++++++
+Result 162
+what is the fork error in rheology
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.08607523
+++++++++++++++++++++++++++++++++
+Result 163
+there is something wrong in processing
+save that model and reopen and run once
+Similarity Score : 0.086061254
+++++++++++++++++++++++++++++++++
+Result 164
+Sir, Now the software is a black screen
+closed all again log in again
+Similarity Score : 0.086046405
+++++++++++++++++++++++++++++++++
+Result 165
+problem using J-OCTA
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.0857677
+++++++++++++++++++++++++++++++++
+Result 166
+i have again constructed the polymer
+no need to worry take your time
+Similarity Score : 0.08545225
+++++++++++++++++++++++++++++++++
+Result 167
+Why can't I create a bond between styrene and butadiene?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.085200265
+++++++++++++++++++++++++++++++++
+Result 168
+In Polymer also MM calculations are not matchning
+recheck th inputs\
+Similarity Score : 0.0841814
+++++++++++++++++++++++++++++++++
+Result 169
+I am unable to switch between screens
+alt tab to swtch screens
+Similarity Score : 0.083719805
+++++++++++++++++++++++++++++++++
+Result 170
+i dont see displacement tab ...
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.082786515
+++++++++++++++++++++++++++++++++
+Result 171
+But couldnt found polymer properties...
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.082231596
+++++++++++++++++++++++++++++++++
+Result 172
+for butadiene error is there
+check the inputs again
+Similarity Score : 0.08136476
+++++++++++++++++++++++++++++++++
+Result 173
+or should the polymer be a combination of the two, plz reply
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.080778904
+++++++++++++++++++++++++++++++++
+Result 174
+do i need to repeat jointly both plymers 5 times
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.079747625
+++++++++++++++++++++++++++++++++
+Result 175
+Sir...lost License for J-Octa
+disconnect and connect again
+Similarity Score : 0.07916509
+++++++++++++++++++++++++++++++++
+Result 176
+sir it stuk in 1 %
+recheck th inputs
+Similarity Score : 0.079032406
+++++++++++++++++++++++++++++++++
+Result 177
+The polymer simulation does not complete 100%
+close and run again 
+Similarity Score : 0.07869185
+++++++++++++++++++++++++++++++++
+Result 178
+team can I get 2hrs slot to complete my assignment on j-octa
+Due to priority for the already booked candidates, we will not be able to provide you a system for now..sorry for the inconvenience. Requesting you to book a slot at the earliest
+Similarity Score : 0.07799002
+++++++++++++++++++++++++++++++++
+Result 179
+I couldnt figure out how to get the default screen
+restart the software please
+Similarity Score : 0.077971235
+++++++++++++++++++++++++++++++++
+Result 180
+some error came
+redo
+Similarity Score : 0.07748728
+++++++++++++++++++++++++++++++++
+Result 181
+Ok...but if technical problem in software then
+connect again\
+Similarity Score : 0.07718268
+++++++++++++++++++++++++++++++++
+Result 182
+But How do I create Butadiene then?
+the same way styrene model don’t take hydrogen
+Similarity Score : 0.07664964
+++++++++++++++++++++++++++++++++
+Result 183
+i am creating a monomer containing 1styrene and 2 butadiene. so when i repeat it 5 times, it will giv a polymer of 5 and 10 repeats
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.07664297
+++++++++++++++++++++++++++++++++
+Result 184
+why the internal structure is going out of the basic shape?
+pl check with tutorial
+Similarity Score : 0.07660841
+++++++++++++++++++++++++++++++++
+Result 185
+how to rename
+Go to your project folder and right click on the file and rename
+Similarity Score : 0.07655162
+++++++++++++++++++++++++++++++++
+Result 186
+not able start the analysis
+check with tutorial and redo
+Similarity Score : 0.07636086
+++++++++++++++++++++++++++++++++
+Result 187
+solver is running, I can paus or stop it
+let it be completed
+Similarity Score : 0.07628606
+++++++++++++++++++++++++++++++++
+Result 188
+like this all coordinates are not matching
+check the inputs againg
+Similarity Score : 0.07606382
+++++++++++++++++++++++++++++++++
+Result 189
+m not able to find batch average....
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.07578348
+++++++++++++++++++++++++++++++++
+Result 190
+For past 10 min in this process of polymerisation.....do you have any idea as how long this process will take
+dont open multiple window
+Similarity Score : 0.07559722
+++++++++++++++++++++++++++++++++
+Result 191
+why its not showing total charge for styrene
+just u need to see number of atoms and the below one
+Similarity Score : 0.07547608
+++++++++++++++++++++++++++++++++
+Result 192
+i got above plot, when i slected displacement, screen become partiallay blank
+if it disconnect ... plz connect again
+Similarity Score : 0.07462774
+++++++++++++++++++++++++++++++++
+Result 193
+for different different materials file is different
+yes
+Similarity Score : 0.07401213
+++++++++++++++++++++++++++++++++
+Result 194
+when do we use pasta structure?
+Rheological
+Similarity Score : 0.073924385
+++++++++++++++++++++++++++++++++
+Result 195
+how an it be wrong when i am following step by step of tutorial ?
+tats not software issue check yo inputs
+Similarity Score : 0.072980575
+++++++++++++++++++++++++++++++++
+Result 196
+When I am taking print screen ans pasting in report it is not coimng
+Alt + prtscrn
+Similarity Score : 0.072197996
+++++++++++++++++++++++++++++++++
+Result 197
+now the run engine window is not working
+redo from first then
+Similarity Score : 0.07218299
+++++++++++++++++++++++++++++++++
+Result 198
+The COGNAG output file isnt getting created.
+you cannot use group contribution and non group contribution together
+Similarity Score : 0.0721681
+++++++++++++++++++++++++++++++++
+Result 199
+Carbon atoms are missing
+please go ahead
+Similarity Score : 0.07180897
+++++++++++++++++++++++++++++++++
+Result 200
+Where will be the file and it's location
+ping in the morning if any system are available will provide you
+Similarity Score : 0.07007245
+++++++++++++++++++++++++++++++++
+Result 201
+How to save the monomer file?
+u just need to close the tab of previous styrene
+Similarity Score : 0.06998185
+++++++++++++++++++++++++++++++++
+Result 202
+this completion bar is not moving fwd ...whether its procssing
+yes wait its in process
+Similarity Score : 0.0699159
+++++++++++++++++++++++++++++++++
+Result 203
+how to add the data in the tabular column
+double click on option n edit
+Similarity Score : 0.06974582
+++++++++++++++++++++++++++++++++
+Result 204
+How to drag a box
+left click n drag
+Similarity Score : 0.0689813
+++++++++++++++++++++++++++++++++
+Result 205
+can I perform these in J Octa.??
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.068832815
+++++++++++++++++++++++++++++++++
+Result 206
+i chkd i am not getting where is falt
+remove hydrogen bonds n proceed
+Similarity Score : 0.06837009
+++++++++++++++++++++++++++++++++
+Result 207
+hi plz see my screen engine is not run,please help
+check your all steps again and save the run analysis
+Similarity Score : 0.06819123
+++++++++++++++++++++++++++++++++
+Result 208
+I am not able to take screen shot
+use snippin tool]
+Similarity Score : 0.06796994
+++++++++++++++++++++++++++++++++
+Result 209
+how to drag box??
+use move part option and follow tutorial properly
+Similarity Score : 0.06677792
+++++++++++++++++++++++++++++++++
+Result 210
+was i supposed to form one styrene monomer and repeat5times, and 1butadiene monomer and repeat 10 times?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.06676666
+++++++++++++++++++++++++++++++++
+Result 211
+If I click the run engine button again can I see the status bar of solving ?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.06672194
+++++++++++++++++++++++++++++++++
+Result 212
+should we model hydrogen atoms in butadiene?
+check if u have bonded hydrogen in butadine; hydrogen bond is not required- you will be calculating charges and force manually that will calculate the  hydrogen  atoms; it is a duplicate look at styrene we use only C bonds, H is taken care similarly model for butadien 
+Similarity Score : 0.06632063
+++++++++++++++++++++++++++++++++
+Result 213
+While creating output file, i am getting some server error andit syas file not found
+save it first and recheck the inputs
+Similarity Score : 0.06623178
+++++++++++++++++++++++++++++++++
+Result 214
+in tutorial..its just one monomer styrene...with which polymer is created
+u need to create styrene and butadiene separately and create polymere and couple both then solve similar to 1st tutorial
+Similarity Score : 0.0659762
+++++++++++++++++++++++++++++++++
+Result 215
+whats the minimum required speed sir?
+4 to 5mbps
+Similarity Score : 0.06585573
+++++++++++++++++++++++++++++++++
+Result 216
+is it possible to calculate elastic model for square structure
+yes check tutorial
+Similarity Score : 0.06496877
+++++++++++++++++++++++++++++++++
+Result 217
+Can i get the software...?
+download from Google
+Similarity Score : 0.06473065
+++++++++++++++++++++++++++++++++
+Result 218
+sir i have some issue in creating new elastic file name
+redo
+Similarity Score : 0.06463251
+++++++++++++++++++++++++++++++++
+Result 219
+after polymer analysis, the Energy Batch Average plot is also not matching
+recheck th inputs\
+Similarity Score : 0.06346159
+++++++++++++++++++++++++++++++++
+Result 220
+should polymer contain 5styrene and 10 butadiene?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.06320749
+++++++++++++++++++++++++++++++++
+Result 221
+it is struck...nothing is happening
+log off login again
+Similarity Score : 0.06310724
+++++++++++++++++++++++++++++++++
+Result 222
+when i am trying to register the monomer with the polymer its telling its incomplete
+save it
+Similarity Score : 0.06301183
+++++++++++++++++++++++++++++++++
+Result 223
+IN MM CALCULATIONS
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.062524185
+++++++++++++++++++++++++++++++++
+Result 224
+HOW TO DOWNLOAD IS THEIR ANY LINK
+https://anydesk.com/download
+Similarity Score : 0.062267013
+++++++++++++++++++++++++++++++++
+Result 225
+Could you show the batch average part
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.062028255
+++++++++++++++++++++++++++++++++
+Result 226
+can you please help me to close the dialog box
+reconnect
+Similarity Score : 0.061459623
+++++++++++++++++++++++++++++++++
+Result 227
+hi it got closed suddenly
+reconnect '
+Similarity Score : 0.061390635
+++++++++++++++++++++++++++++++++
+Result 228
+if i select the stress strain curve calculations,
+That is not configured in the current tutorial
+Similarity Score : 0.061120246
+++++++++++++++++++++++++++++++++
+Result 229
+for multilinear isotropic hardening
+re do it again
+Similarity Score : 0.060145035
+++++++++++++++++++++++++++++++++
+Result 230
+can you show me what is taxilia
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.05978066
+++++++++++++++++++++++++++++++++
+Result 231
+which parameter are we supposed to change to see the different calculated results?
+line and ball stick
+Similarity Score : 0.05976452
+++++++++++++++++++++++++++++++++
+Result 232
+Could you please look it up for m
+not try like that
+Similarity Score : 0.05973485
+++++++++++++++++++++++++++++++++
+Result 233
+so i will take screenshots of all the position, velocity, force and unit cell properties?
+take which ever u feel as results
+Similarity Score : 0.059641726
+++++++++++++++++++++++++++++++++
+Result 234
+is it auto saved?
+no save manually yourself
+Similarity Score : 0.05937435
+++++++++++++++++++++++++++++++++
+Result 235
+are we supposed to tabulate the polymer properties like we do for monomer or take snap shots?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.059157666
+++++++++++++++++++++++++++++++++
+Result 236
+sir, is the polymer structure correct ?
+no assistance for assignment
+Similarity Score : 0.05911649
+++++++++++++++++++++++++++++++++
+Result 237
+in page 24... analysis is running for more time.. still it is not completing
+pl close the analysis and check all the inputs once
+Similarity Score : 0.058639307
+++++++++++++++++++++++++++++++++
+Result 238
+Why do we have different formula?
+you will be calculating charges and force manually that will calculate the hydrogen atoms
+Similarity Score : 0.05857513
+++++++++++++++++++++++++++++++++
+Result 239
+Black...Blank screen now...
+closed all again log in again
+Similarity Score : 0.058429614
+++++++++++++++++++++++++++++++++
+Result 240
+hi in case we are to model ABS plastic in this how do we define the polymer.??
+pls follow tutorial
+Similarity Score : 0.057249855
+++++++++++++++++++++++++++++++++
+Result 241
+i have a basic doubt in the start of monomer creation
+that is th basic structure of styrene
+Similarity Score : 0.057044525
+++++++++++++++++++++++++++++++++
+Result 242
+i m having confusion with the problem statement
+5styrene and 10 butadiene
+Similarity Score : 0.05703202
+++++++++++++++++++++++++++++++++
+Result 243
+I have a little problem with getting to the Analysis option afyter the out file has been created
+plz follow the tutorial which i have given
+Similarity Score : 0.056959964
+++++++++++++++++++++++++++++++++
+Result 244
+we cant see stress strain in polystyrene\
+Not in this case
+Similarity Score : 0.056609284
+++++++++++++++++++++++++++++++++
+Result 245
+And for Engineering Measurement?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.05658488
+++++++++++++++++++++++++++++++++
+Result 246
+sir, engine is not starting, even after clicking "start " button
+it is showing completed go further
+Similarity Score : 0.056470174
+++++++++++++++++++++++++++++++++
+Result 247
+now I ve repeated the steps still its not happening, any help in identifying the problem
+ur folder ame has space after ur id
+Similarity Score : 0.056462005
+++++++++++++++++++++++++++++++++
+Result 248
+similar error for polymer analysis
+close software reopen again
+Similarity Score : 0.056112073
+++++++++++++++++++++++++++++++++
+Result 249
+Where I have to save files now ??
+personal directory
+Similarity Score : 0.056030486
+++++++++++++++++++++++++++++++++
+Result 250
+where i'll get the shpere.elm
+u will not find sphere , u need to create as per tutorials
+Similarity Score : 0.056010522
+++++++++++++++++++++++++++++++++
+Result 251
+got stuc while running run engine in J Octa
+check if u have bonded hydrogen in butadine; hydrogen bond is not required- you will be calculating charges and force manually that will calculate the  hydrogen  atoms; it is a duplicate look at styrene we use only C bonds, H is taken care similarly model for butadien 
+Similarity Score : 0.055975355
+++++++++++++++++++++++++++++++++
+Result 252
+How do I insert fixed support ?
+select face selection under trsnient structutral and right click on face u want to fix
+Similarity Score : 0.05575353
+++++++++++++++++++++++++++++++++
+Result 253
+Polymer simulation is not working
+you need to see the polymerisation  when styrene becomes polystyrene it creates the double bond where as butadiene will remove one double bond out of two and creates one double bond in the polymer see the polymer structure and make it
+Similarity Score : 0.0554033
+++++++++++++++++++++++++++++++++
+Result 254
+AFTER MO CALCULATIONS ALSO RESULTS ARE NOT MATCHING
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.05487637
+++++++++++++++++++++++++++++++++
+Result 255
+Ya i know that....but here it syas butadiene 10 repeats and styrene 5 repeats....since two different repeats i am not sure..so asking...what does 10 mean here?
+You need to make these monomers repeat independent  and also you need to combine these monomers in polymer modeling
+Similarity Score : 0.05439267
+++++++++++++++++++++++++++++++++
+Result 256
+when i was click on run engine and click on  start button  the processes starts  and elapsed time  is also start then the parallel number window is displayed but after run the parallel run setting nothing will haapen
+close previous monomer n try
+Similarity Score : 0.054155517
+++++++++++++++++++++++++++++++++
+Result 257
+AGAIN SOFTWARE ISSUE
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.054049224
+++++++++++++++++++++++++++++++++
+Result 258
+How to increase the font size
+connect again\
+Similarity Score : 0.053988233
+++++++++++++++++++++++++++++++++
+Result 259
+from where I can see polymer structure properties
+click on th icon for which u need details n follow tutor properly
+Similarity Score : 0.05391004
+++++++++++++++++++++++++++++++++
+Result 260
+what is number of divisions in page 7 for relaxation modulus experiment
+we ll check and revert back to u
+Similarity Score : 0.05358544
+++++++++++++++++++++++++++++++++
+Result 261
+but I cant see the word file
+u can see on the screen its opened
+Similarity Score : 0.053503573
+++++++++++++++++++++++++++++++++
+Result 262
+why it is not showing anything in stress strain curve
+it will show on your inputs
+Similarity Score : 0.053492382
+++++++++++++++++++++++++++++++++
+Result 263
+yah sir but there is problem occr=uring while run the program
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.053491898
+++++++++++++++++++++++++++++++++
+Result 264
+some software issue when calculating MM
+no need to worry take your time
+Similarity Score : 0.053343628
+++++++++++++++++++++++++++++++++
+Result 265
+butadiene 10 repeats & styrene 5 repeats?
+Plz go and check in the tutorial
+Similarity Score : 0.053307787
+++++++++++++++++++++++++++++++++
+Result 266
+i am not able to change or rottaion
+1st Answer: U can skip the step in tutorial page (23-25) and   2nd Answer: To rotate the structure Click ( Ctrl+ LMB) on one node and again select the other node then click okay. 
+Similarity Score : 0.05313708
+++++++++++++++++++++++++++++++++
+Result 267
+what is this smart edit
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.052646212
+++++++++++++++++++++++++++++++++
+Result 268
+i want to click on save and close but i cant able to click on that
+click it vl open
+Similarity Score : 0.052279897
+++++++++++++++++++++++++++++++++
+Result 269
+engine run but no 100% shown
+check if u have bonded hydrogen in butadine; hydrogen bond is not required- you will be calculating charges and force manually that will calculate the  hydrogen  atoms; it is a duplicate look at styrene we use only C bonds, H is taken care similarly model for butadien 
+Similarity Score : 0.05201682
+++++++++++++++++++++++++++++++++
+Result 270
+Hi the Carbon atom disapperars while trying to create a bond
+cllick on show c atom icon
+Similarity Score : 0.05184787
+++++++++++++++++++++++++++++++++
+Result 271
+BUT GETTING UNABLE TO ACESS
+without booking u cant get access
+Similarity Score : 0.05179241
+++++++++++++++++++++++++++++++++
+Result 272
+BUT GETTING UNABLE TO ACESS
+without booking u cant get access
+Similarity Score : 0.05179241
+++++++++++++++++++++++++++++++++
+Result 273
+in virtual system, how can I make the report
+take screen shots of th results n prepare th report in ur system
+Similarity Score : 0.05169312
+++++++++++++++++++++++++++++++++
+Result 274
+anf for pasta model, is it related to substances that have more of fluid properties?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.051642735
+++++++++++++++++++++++++++++++++
+Result 275
+they said "local" but im finding three to four local.....??? like COCNAC, VSOP, LAMMP, LAMMPSMPI
+see th pictures too u will get to know
+Similarity Score : 0.051212907
+++++++++++++++++++++++++++++++++
+Result 276
+dropdown option not coming,,,plz help
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.051148273
+++++++++++++++++++++++++++++++++
+Result 277
+Do I need to change the file name as in tutorial...........currently it is sphere but tutorial asks enter elastica as file name
+do as per th tutorial
+Similarity Score : 0.05085009
+++++++++++++++++++++++++++++++++
+Result 278
+it is saving in C/j-octa2.1/exercise 1.Is this OK path?
+  yes
+Similarity Score : 0.050772127
+++++++++++++++++++++++++++++++++
+Result 279
+i have done it...bt where wl i get polymer structure property???
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.050717082
+++++++++++++++++++++++++++++++++
+Result 280
+output is not generated
+check inputs
+Similarity Score : 0.050482195
+++++++++++++++++++++++++++++++++
+Result 281
+how to get the monomer and polymer structure properties ?
+u need to do by ur own
+Similarity Score : 0.05045586
+++++++++++++++++++++++++++++++++
+Result 282
+can you look and say if licence issue or not
+save it first and recheck the inputs no software issues
+Similarity Score : 0.04957263
+++++++++++++++++++++++++++++++++
+Result 283
+not for that error msg. pls view on jocta system
+ u have given space in ur file name
+Similarity Score : 0.04952443
+++++++++++++++++++++++++++++++++
+Result 284
+carbon is not visible wht to do
+click on hide/ show C above the graphic reagon
+Similarity Score : 0.049508687
+++++++++++++++++++++++++++++++++
+Result 285
+but for butadiene only its giving eror
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.049444485
+++++++++++++++++++++++++++++++++
+Result 286
+not able to see vIEWER_show??
+go ahead with exercise 2
+Similarity Score : 0.049343463
+++++++++++++++++++++++++++++++++
+Result 287
+bt want to know why stree strain curve is not there
+That  is different  analysis
+Similarity Score : 0.048787728
+++++++++++++++++++++++++++++++++
+Result 288
+I have a question regarding the styrene monomer formula used in the first tutorial. I did not understand whay the double bond and hydrogen molecules are not included in the analysis.
+check if u have bonded hydrogen in butadine; hydrogen bond is not required- you will be calculating charges and force manually that will calculate the  hydrogen  atoms; it is a duplicate look at styrene we use only C bonds, H is taken care similarly model for butadien 
+Similarity Score : 0.048717093
+++++++++++++++++++++++++++++++++
+Result 289
+how to extract this properties into excel?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.04856674
+++++++++++++++++++++++++++++++++
+Result 290
+it ended abruptly please check
+reconnect again
+Similarity Score : 0.04823749
+++++++++++++++++++++++++++++++++
+Result 291
+whether i have to craete polysterene model?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.048184093
+++++++++++++++++++++++++++++++++
+Result 292
+WHY CAN'T WE MODEL BY USING ONLY CARBON AND HYDROGEN ATOMS
+we r modeling only by taking hydrogen and carbon atom
+Similarity Score : 0.048113637
+++++++++++++++++++++++++++++++++
+Result 293
+Graph of molecular distribution
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.048054624
+++++++++++++++++++++++++++++++++
+Result 294
+cant do it cursor isn't working
+reconnect again
+Similarity Score : 0.04802236
+++++++++++++++++++++++++++++++++
+Result 295
+Now it says as Socket error
+do as per th tutorial
+Similarity Score : 0.047543373
+++++++++++++++++++++++++++++++++
+Result 296
+Why Styrene is created with Benzene and two carbon atoms
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.046877936
+++++++++++++++++++++++++++++++++
+Result 297
+cant able to click on that save  and close button because of the task bar
+   i said you to follow that tutorial
+Similarity Score : 0.046822704
+++++++++++++++++++++++++++++++++
+Result 298
+sir this blank screen showing
+disconnect and connect again
+Similarity Score : 0.046454586
+++++++++++++++++++++++++++++++++
+Result 299
+Pls help how to insert Cad model for analysis
+connected proceed now
+Similarity Score : 0.046410516
+++++++++++++++++++++++++++++++++
+Result 300
+what is short key now for removing this space
+rename it your naming has space
+Similarity Score : 0.046342567
+++++++++++++++++++++++++++++++++
+Result 301
+i am not able to do polymer
+click on new n create
+Similarity Score : 0.046338525
+++++++++++++++++++++++++++++++++
+Result 302
+how to take pront scrren
+take screen shots photos which ever u feel as a results
+Similarity Score : 0.046144016
+++++++++++++++++++++++++++++++++
+Result 303
+i have cmpld the tutorial2...plz nxt wht to do???i want start tutorial3
+close th present project n open new n continue
+Similarity Score : 0.045550223
+++++++++++++++++++++++++++++++++
+Result 304
+not able to click any icon
+your styrene structure is wrong
+Similarity Score : 0.045118425
+++++++++++++++++++++++++++++++++
+Result 305
+save and lose is not visible please adjust
+keep the cursor on the bottom of that MM tab and ninimize it den it vl show close option
+Similarity Score : 0.04490657
+++++++++++++++++++++++++++++++++
+Result 306
+sir after creation of bond between TERMINATOR to Carbon, carbon lette "C" is dissappearing from the screen, so iam not getting molecular weight on the screen. shall i continue with this
+click on show/hide C above the graphuc region
+Similarity Score : 0.04479047
+++++++++++++++++++++++++++++++++
+Result 307
+IN POLYSTYRENE MO IS NOT WORKING
+Which happens depending on what sequence we are connecting
+Similarity Score : 0.04458762
+++++++++++++++++++++++++++++++++
+Result 308
+ok but its giving error in polymer creation
+done plz carry on
+Similarity Score : 0.04436637
+++++++++++++++++++++++++++++++++
+Result 309
+what input data sir, can u please tell
+your previous input values and steps that u have entered.
+Similarity Score : 0.044363815
+++++++++++++++++++++++++++++++++
+Result 310
+I made it horizontal however carbon atoms are not visible
+pl follow the tutorial
+Similarity Score : 0.044242617
+++++++++++++++++++++++++++++++++
+Result 311
+ok...Can i get J-OCTA  Sir..?
+No, these are commercial software
+Similarity Score : 0.04363703
+++++++++++++++++++++++++++++++++
+Result 312
+team can you check , I am unable to click anything on the system
+reconnect
+Similarity Score : 0.04345307
+++++++++++++++++++++++++++++++++
+Result 313
+when i select boundary verte i should be able to set displacement right1/
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.043375127
+++++++++++++++++++++++++++++++++
+Result 314
+I'm in exercise 2, simulation is stuck
+reconnect again system got hang so
+Similarity Score : 0.04332426
+++++++++++++++++++++++++++++++++
+Result 315
+Simulation is stuck
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.043172974
+++++++++++++++++++++++++++++++++
+Result 316
+but its showing up in other format
+ u are not doing the tutorial peroperly
+Similarity Score : 0.043047212
+++++++++++++++++++++++++++++++++
+Result 317
+fork error observed while creating file
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.042238638
+++++++++++++++++++++++++++++++++
+Result 318
+Why?actual structure of styrene is with hydrogen only right.will you explain this please?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.041793786
+++++++++++++++++++++++++++++++++
+Result 319
+I think Citrix server slow
+work like that, it will work properly soon
+Similarity Score : 0.041566953
+++++++++++++++++++++++++++++++++
+Result 320
+sir, the error in running the engine
+check your inputs
+Similarity Score : 0.041407302
+++++++++++++++++++++++++++++++++
+Result 321
+m doing tutorial2...plz help me...drop down option is not coming there
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.041341912
+++++++++++++++++++++++++++++++++
+Result 322
+which properties of plymer
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.04122557
+++++++++++++++++++++++++++++++++
+Result 323
+print screen is not working.. sorry
+Try to connect wit Team viewer 12 id-851147357  pswd-9192
+Similarity Score : 0.040790018
+++++++++++++++++++++++++++++++++
+Result 324
+the adjust option for me to align the elements is not highlighting for me , could you please assist?
+select n right click u vl get it
+Similarity Score : 0.04058874
+++++++++++++++++++++++++++++++++
+Result 325
+when i was click on search engine nothing will happen
+see whether th connections are done properly
+Similarity Score : 0.040453684
+++++++++++++++++++++++++++++++++
+Result 326
+Can you please Jocta hang
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.04040709
+++++++++++++++++++++++++++++++++
+Result 327
+its showing pasta model not created
+jus go through the tutorial steps again
+Similarity Score : 0.04019549
+++++++++++++++++++++++++++++++++
+Result 328
+The run engine option is not showing on the input file
+While Creating project students should not use special characters
+Similarity Score : 0.03984308
+++++++++++++++++++++++++++++++++
+Result 329
+o/p file is not generated
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.039766025
+++++++++++++++++++++++++++++++++
+Result 330
+It opened... but later when I try to click something
+reconnect again
+Similarity Score : 0.039593313
+++++++++++++++++++++++++++++++++
+Result 331
+polymer is not getting created with two monomers
+u need to create styrene and butadiene separately and create polymere and couple both then solve similar to 1st tutorial
+Similarity Score : 0.03943616
+++++++++++++++++++++++++++++++++
+Result 332
+not able to add there..bcz drop down option not highlighted
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.03923277
+++++++++++++++++++++++++++++++++
+Result 333
+Can I download this Tutorial PPT on to my desktop
+yes
+Similarity Score : 0.03909732
+++++++++++++++++++++++++++++++++
+Result 334
+team my carbon atom is getting disappeared after creating bond between carbon and terminator
+after creating bonds click on th option with a carbon on an arrow
+Similarity Score : 0.03905275
+++++++++++++++++++++++++++++++++
+Result 335
+sir.. screen is black agaim
+closed all again log in again
+Similarity Score : 0.038878508
+++++++++++++++++++++++++++++++++
+Result 336
+file oout.bdf not coming
+check if u have bonded hydrogen in butadine; hydrogen bond is not required- you will be calculating charges and force manually that will calculate the  hydrogen  atoms; it is a duplicate look at styrene we use only C bonds, H is taken care similarly model for butadien 
+Similarity Score : 0.03887185
+++++++++++++++++++++++++++++++++
+Result 337
+don't know not able to move the icons needed
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.038708746
+++++++++++++++++++++++++++++++++
+Result 338
+I AM TRiying to excute but it is not happening
+also check your login page is logged out or not
+Similarity Score : 0.038390506
+++++++++++++++++++++++++++++++++
+Result 339
+hi am nearly done but screen is frozen… plz help
+reconnect\
+Similarity Score : 0.03802284
+++++++++++++++++++++++++++++++++
+Result 340
+hi im not able to run the polymer simulation need a bit help.
+you should not use space while creating project folder and rename folder
+Similarity Score : 0.037987385
+++++++++++++++++++++++++++++++++
+Result 341
+My colleague have problem to Run the polymer result
+which ever u feel as a results, take all screen shots
+Similarity Score : 0.037930325
+++++++++++++++++++++++++++++++++
+Result 342
+results are not playable
+some graphics problem, is it ok we give different machine
+Similarity Score : 0.037582092
+++++++++++++++++++++++++++++++++
+Result 343
+not able to select displacement for vertex in xmax and x min
+Check your Boundary condition set to boundary_vertex_max is X=2, Y=0, Z=0 and boundary_vertex_min is X= -2, Y= 0, Z=0. then Run the Engine.
+Similarity Score : 0.037387393
+++++++++++++++++++++++++++++++++
+Result 344
+sir not able to click on anything
+disconnect and connect again please
+Similarity Score : 0.03736196
+++++++++++++++++++++++++++++++++
+Result 345
+8molecules of carbon, is it ok now ?
+yes plz proceed
+Similarity Score : 0.03722115
+++++++++++++++++++++++++++++++++
+Result 346
+what is procedure
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.037214007
+++++++++++++++++++++++++++++++++
+Result 347
+I tried clicking set and close
+jus follow the tutorial steps
+Similarity Score : 0.036880948
+++++++++++++++++++++++++++++++++
+Result 348
+can u pls tel me shere to get the polymer structure properties
+no assistance for assignment
+Similarity Score : 0.036755744
+++++++++++++++++++++++++++++++++
+Result 349
+i am doing some error if you can help
+Don't add Space or any special Characters while creating folder name and new project.
+Similarity Score : 0.036741316
+++++++++++++++++++++++++++++++++
+Result 350
+in monomer i am getting LIST COPY option to do
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.036738496
+++++++++++++++++++++++++++++++++
+Result 351
+hey how to make carbon atom visible
+click on hide/ show C above the graphic reagon
+Similarity Score : 0.03668852
+++++++++++++++++++++++++++++++++
+Result 352
+i am unable see the close button at the bottom
+reconnect
+Similarity Score : 0.036538165
+++++++++++++++++++++++++++++++++
+Result 353
+how much time it will take to revert them back
+okay team vl revert u shortly
+Similarity Score : 0.036372498
+++++++++++++++++++++++++++++++++
+Result 354
+The problem still exists
+please sen a mail to wise again
+Similarity Score : 0.03628619
+++++++++++++++++++++++++++++++++
+Result 355
+Today is the JOcta Sesison and the application is not starting up is the problem
+plz download anydesk and install I vl teach u j-octa
+Similarity Score : 0.036218435
+++++++++++++++++++++++++++++++++
+Result 356
+As per the tutorial i have entered values but still simulation error is there
+re do it again
+Similarity Score : 0.036125686
+++++++++++++++++++++++++++++++++
+Result 357
+J Octa tutorial not found in the link given by you
+tutorial document which i opened STEP BY STEP PROCEDURE UPDATED
+Similarity Score : 0.03608045
+++++++++++++++++++++++++++++++++
+Result 358
+Tutorial doesnt show actual options
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.036043476
+++++++++++++++++++++++++++++++++
+Result 359
+why this graph is not matching the pdf graph?
+plz go ahead with next tutorial
+Similarity Score : 0.035988133
+++++++++++++++++++++++++++++++++
+Result 360
+why are we selecting cognac?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.035887945
+++++++++++++++++++++++++++++++++
+Result 361
+Do I need to create again the monomer?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.035631537
+++++++++++++++++++++++++++++++++
+Result 362
+and output,udf is not created
+Don't add Space or any special Characters while creating folder name and new project.
+Similarity Score : 0.035474658
+++++++++++++++++++++++++++++++++
+Result 363
+sir... nothings happening
+disconnect and connect again please
+Similarity Score : 0.035364624
+++++++++++++++++++++++++++++++++
+Result 364
+hello I cant go back to monomer
+swap the tabs
+Similarity Score : 0.03520018
+++++++++++++++++++++++++++++++++
+Result 365
+how do i save these files seperately
+take screenshots in one file n proceed
+Similarity Score : 0.03494761
+++++++++++++++++++++++++++++++++
+Result 366
+May I know if I have gone wrong somewhere??
+either you need to use both group contribution or both non group contribution
+Similarity Score : 0.034821108
+++++++++++++++++++++++++++++++++
+Result 367
+is it decided based on the material or something else?
+it is clearly mentioned in the tutorials
+Similarity Score : 0.034688428
+++++++++++++++++++++++++++++++++
+Result 368
+sir, can you please restart J-octa, I think there is some problem
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.03435985
+++++++++++++++++++++++++++++++++
+Result 369
+i have not used H in butadiene
+there s a space in ur folder name
+Similarity Score : 0.0341776
+++++++++++++++++++++++++++++++++
+Result 370
+NOW MO IS SHOWING FAILED FOR WHAT YOU CREATED ALSO
+To Show the C in design panel Click on [show C]
+Similarity Score : 0.033796355
+++++++++++++++++++++++++++++++++
+Result 371
+can I directly select 2 vinyl group
+yes
+Similarity Score : 0.033651173
+++++++++++++++++++++++++++++++++
+Result 372
+could you please send me the link
+https://anydesk.com/download
+Similarity Score : 0.033034675
+++++++++++++++++++++++++++++++++
+Result 373
+Why we use terminator
+are u not able to use terminator
+Similarity Score : 0.03287219
+++++++++++++++++++++++++++++++++
+Result 374
+the formula of polysterene used in exercise doesn't contain hydrogen molecules and double bond is also not there between two carbon atoms,
+you dont need to add the hydrogen in your monomer
+Similarity Score : 0.032291617
+++++++++++++++++++++++++++++++++
+Result 375
+on the screen, why curve is not seen.....i mean stress strain curve
+there is a mistake in steps plz check from scratch
+Similarity Score : 0.03219748
+++++++++++++++++++++++++++++++++
+Result 376
+sir pl 2 timesease i am not getting i chekd it
+redo
+Similarity Score : 0.031882234
+++++++++++++++++++++++++++++++++
+Result 377
+do we need to folllow or old procedure only?
+it is under process..... plz go with anydesk
+Similarity Score : 0.031600136
+++++++++++++++++++++++++++++++++
+Result 378
+Tutorial u have send are for Engineering Measurent or Mechanical Technology??
+for that u need to follow the lab operation manual
+Similarity Score : 0.031410765
+++++++++++++++++++++++++++++++++
+Result 379
+File not open
+disconnect and connect again please
+Similarity Score : 0.031376135
+++++++++++++++++++++++++++++++++
+Result 380
+iit is still not changing
+wait till it end
+Similarity Score : 0.031221237
+++++++++++++++++++++++++++++++++
+Result 381
+but from whwre to get info abt other monomer modellings?
+You just need an chemical structure of butadienen
+Similarity Score : 0.03112142
+++++++++++++++++++++++++++++++++
+Result 382
+sir, is it simulating?
+no terminated plz check ur inputs
+Similarity Score : 0.031078223
+++++++++++++++++++++++++++++++++
+Result 383
+can you please check my model
+wait till it end
+Similarity Score : 0.031044656
+++++++++++++++++++++++++++++++++
+Result 384
+how to save the data in excell file
+you can open and copy the results and paste to excel
+Similarity Score : 0.030995337
+++++++++++++++++++++++++++++++++
+Result 385
+I have to create new directory for this time ???
+yes plz proceed
+Similarity Score : 0.030826276
+++++++++++++++++++++++++++++++++
+Result 386
+not able to genrate the o/p file
+check the steps againg
+Similarity Score : 0.030815935
+++++++++++++++++++++++++++++++++
+Result 387
+Simulation not starting
+inputs was wrong
+Similarity Score : 0.030609466
+++++++++++++++++++++++++++++++++
+Result 388
+how can I undo?
+click and drag
+Similarity Score : 0.030146994
+++++++++++++++++++++++++++++++++
+Result 389
+output file is not generated
+check the steps againg
+Similarity Score : 0.030141277
+++++++++++++++++++++++++++++++++
+Result 390
+I'm Sai Currently using J-Octa.. I have issue in forming Bond between Carbon atoms
+To Show the 'C' in design panel -> Click on [show C] or [Hide C](it is available above the above the design panel area)
+Similarity Score : 0.029780015
+++++++++++++++++++++++++++++++++
+Result 391
+For MM calc, shall i choose COGNAC local
+follow the tutorial steps
+Similarity Score : 0.029612653
+++++++++++++++++++++++++++++++++
+Result 392
+IS THERE ANY OPTION LEST TO DO...PLEASE SUGGEST
+booking is th only way to get access
+Similarity Score : 0.029559117
+++++++++++++++++++++++++++++++++
+Result 393
+no cursor seen .... not able to rght click n set repetitions
+close anydesk and reconnect again
+Similarity Score : 0.029422456
+++++++++++++++++++++++++++++++++
+Result 394
+above is not avaiable, it is plot,
+that is just a vector
+Similarity Score : 0.029416574
+++++++++++++++++++++++++++++++++
+Result 395
+m nt able to do
+jus double click on th required entities u get the table with values
+Similarity Score : 0.029398786
+++++++++++++++++++++++++++++++++
+Result 396
+can you please make my monomer horizontal
+pl follow the tutorial
+Similarity Score : 0.029249622
+++++++++++++++++++++++++++++++++
+Result 397
+how to remove the traslation motion frm my model
+Because you need to check the orientation  before translation
+Similarity Score : 0.029043205
+++++++++++++++++++++++++++++++++
+Result 398
+Mass values and no. of Atoms shown on right side are different between pdf and excercise problem
+chech all inputs once
+Similarity Score : 0.028673114
+++++++++++++++++++++++++++++++++
+Result 399
+After entering the polymer distribution, it says to click the plot....but tutorial does not show the actual plot
+every thing is clearly mentioned in the tutorial pdf
+Similarity Score : 0.028386805
+++++++++++++++++++++++++++++++++
+Result 400
+I'm facing problem in Analysis Settings in Harmonic Analysis
+static to harmonic setup to set up link i deleted
+Similarity Score : 0.02837877
+++++++++++++++++++++++++++++++++
+Result 401
+simulation not progressing
+it happened because u had not followed the tutorials properly
+Similarity Score : 0.028342595
+++++++++++++++++++++++++++++++++
+Result 402
+Sir it do not register monomer
+cancel the previous window and then try \
+Similarity Score : 0.028326247
+++++++++++++++++++++++++++++++++
+Result 403
+also i m unable to find the polymer data list copy option
+select n copy u can
+Similarity Score : 0.028218424
+++++++++++++++++++++++++++++++++
+Result 404
+why its showing not created?
+jus go through the tutorial steps again
+Similarity Score : 0.028217625
+++++++++++++++++++++++++++++++++
+Result 405
+no _out.udf file
+check if u have bonded hydrogen in butadine; hydrogen bond is not required- you will be calculating charges and force manually that will calculate the  hydrogen  atoms; it is a duplicate look at styrene we use only C bonds, H is taken care similarly model for butadien 
+Similarity Score : 0.02815183
+++++++++++++++++++++++++++++++++
+Result 406
+Sir output isnt creating
+you dont need to add the hydrogen in your monomer
+Similarity Score : 0.027811218
+++++++++++++++++++++++++++++++++
+Result 407
+in poybutadiene styrene window the charge i got is zero is it ok? but i got the results
+what ever u got plz take screen shots
+Similarity Score : 0.027733754
+++++++++++++++++++++++++++++++++
+Result 408
+run engine option not working
+check if u have bonded hydrogen in butadine; hydrogen bond is not required- you will be calculating charges and force manually that will calculate the  hydrogen  atoms; it is a duplicate look at styrene we use only C bonds, H is taken care similarly model for butadien 
+Similarity Score : 0.027717385
+++++++++++++++++++++++++++++++++
+Result 409
+Can you check what is issue. i have followed each step
+no issue read it twice and check the error
+Similarity Score : 0.02764128
+++++++++++++++++++++++++++++++++
+Result 410
+so i have to resume from creating the polymer ?
+no need to worry take your time
+Similarity Score : 0.027628029
+++++++++++++++++++++++++++++++++
+Result 411
+can you please check why execution not started?
+Check your Boundary condition set to boundary_vertex_max is X=2, Y=0, Z=0 and boundary_vertex_min is X= -2, Y= 0, Z=0. then Run the Engine.
+Similarity Score : 0.027605744
+++++++++++++++++++++++++++++++++
+Result 412
+i am unable to create bond
+plz jus follow the tutorial
+Similarity Score : 0.027399594
+++++++++++++++++++++++++++++++++
+Result 413
+Sir in force field it only shows AMBER
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.027384115
+++++++++++++++++++++++++++++++++
+Result 414
+its error while loading file
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.027099816
+++++++++++++++++++++++++++++++++
+Result 415
+yes tried, but failed
+connected plz try now
+Similarity Score : 0.027069258
+++++++++++++++++++++++++++++++++
+Result 416
+Only local is not available
+jus go through as per the tutorial
+Similarity Score : 0.027045986
+++++++++++++++++++++++++++++++++
+Result 417
+or do I need to remove 2 hydrogen for 2 terminators?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.026792964
+++++++++++++++++++++++++++++++++
+Result 418
+Im getting like this, the adjust is not highlighted & im not able to select the adjust option
+right click on th selected portion
+Similarity Score : 0.026762594
+++++++++++++++++++++++++++++++++
+Result 419
+i cannot right click on the polymerout.bdf
+check your inputs
+Similarity Score : 0.026676806
+++++++++++++++++++++++++++++++++
+Result 420
+I have once again tried it but the same result plz help
+okay give your anydesk id i will connect to your system
+Similarity Score : 0.026673995
+++++++++++++++++++++++++++++++++
+Result 421
+is there any mistake because of which it is not running?
+close previous monomers
+Similarity Score : 0.026600447
+++++++++++++++++++++++++++++++++
+Result 422
+it does not create polystyrene
+check your inputs
+Similarity Score : 0.026378188
+++++++++++++++++++++++++++++++++
+Result 423
+I am unable to get the final cognac file
+if u have bonded hydrogen in butadine; hydrogen bond is not required-
+Similarity Score : 0.026342085
+++++++++++++++++++++++++++++++++
+Result 424
+I'm unable to see Cluster Results in Analysis settings
+static to harmonic setup to set up link i deleted
+Similarity Score : 0.026227707
+++++++++++++++++++++++++++++++++
+Result 425
+Sphere_out.udf is not creating
+check the steps again
+Similarity Score : 0.026185764
+++++++++++++++++++++++++++++++++
+Result 426
+So the file we selected below to some polymer
+however I suggest you to ready some of the material on Rheology of Polymer Materials
+Similarity Score : 0.025930172
+++++++++++++++++++++++++++++++++
+Result 427
+i have saved tut2 in c drive..is it ok ???
+yes
+Similarity Score : 0.025565736
+++++++++++++++++++++++++++++++++
+Result 428
+team for molecular mechanics which location i have to choose to run
+follow tutorial step by step clearly
+Similarity Score : 0.025198517
+++++++++++++++++++++++++++++++++
+Result 429
+This page can’t be displayed
+Turn on TLS 1.0, TLS 1.1, and TLS 1.2 in Advanced settings and try connecting to https://anydesk.com  again. If this error persists, it is possible that this site uses an unsupported protocol or cipher suite such as RC4 (link for the details), which is no
+Similarity Score : 0.0250818
+++++++++++++++++++++++++++++++++
+Result 430
+hi i am getting error of this kind in last stage while creating run
+Don't add Space or any special Characters while creating folder name and new project.
+Similarity Score : 0.025024036
+++++++++++++++++++++++++++++++++
+Result 431
+analyssis stuck t 93% can you check
+try to connect now
+Similarity Score : 0.024971198
+++++++++++++++++++++++++++++++++
+Result 432
+sir, i am not getting stress plot
+check your all steps
+Similarity Score : 0.024383089
+++++++++++++++++++++++++++++++++
+Result 433
+for alignment, i am unable create a box frmae
+use hand tool
+Similarity Score : 0.02420525
+++++++++++++++++++++++++++++++++
+Result 434
+I am running rheology problem
+checking with the tutorial pdf
+Similarity Score : 0.024133414
+++++++++++++++++++++++++++++++++
+Result 435
+screen black out ... not able to create new file
+re do it again
+Similarity Score : 0.023856634
+++++++++++++++++++++++++++++++++
+Result 436
+error occurred while loading file
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.02375319
+++++++++++++++++++++++++++++++++
+Result 437
+Showing some error in d drive as monomer is not complete.... what to do?
+there will be no assistance for assignment
+Similarity Score : 0.023646692
+++++++++++++++++++++++++++++++++
+Result 438
+unable to create Input File
+pls follow tutorial
+Similarity Score : 0.023644187
+++++++++++++++++++++++++++++++++
+Result 439
+i need a help to get the properties
+u need to do by ur own
+Similarity Score : 0.02362112
+++++++++++++++++++++++++++++++++
+Result 440
+what is cognac input file
+Check in tutorial page 18 and cross verify the vale u have entered: a. Max iteration = 10,000 b. converge Force = 1 c. output intervel = 100                  
+Similarity Score : 0.023094201
+++++++++++++++++++++++++++++++++
+Result 441
+Why these softwares have very small font size
+you need to increase the zoom % in your machine
+Similarity Score : 0.0228738
+++++++++++++++++++++++++++++++++
+Result 442
+sir why its not dragging?
+follow th tutorial step by step clearly
+Similarity Score : 0.022646498
+++++++++++++++++++++++++++++++++
+Result 443
+saving of files not important right?
+please follow the tutorial steps
+Similarity Score : 0.022643963
+++++++++++++++++++++++++++++++++
+Result 444
+do I need to create new project folder in this system ID also. or can I able to get my folder earlier listed in this system
+yes
+Similarity Score : 0.022394545
+++++++++++++++++++++++++++++++++
+Result 445
+hi the sofware is not responding
+it will take time to solve plz wait
+Similarity Score : 0.022299666
+++++++++++++++++++++++++++++++++
+Result 446
+saved thefile trying to registe monomer
+close the previous styrene.mom tab then register monomer
+Similarity Score : 0.022222178
+++++++++++++++++++++++++++++++++
+Result 447
+suppose energy data i want to put in ecxell form, is there any option?
+Copy paste to note pad make a. csv
+Similarity Score : 0.022131171
+++++++++++++++++++++++++++++++++
+Result 448
+in your earlier test the Run engine had not come in your input file
+its running now plz open the engine
+Similarity Score : 0.02192071
+++++++++++++++++++++++++++++++++
+Result 449
+no file of out.bdf
+check if u have bonded hydrogen in butadine; hydrogen bond is not required- you will be calculating charges and force manually that will calculate the  hydrogen  atoms; it is a duplicate look at styrene we use only C bonds, H is taken care similarly model for butadien 
+Similarity Score : 0.021630792
+++++++++++++++++++++++++++++++++
+Result 450
+when irun FF to MM analysis'its aborting without completing the conversion
+OK, just try to re run
+Similarity Score : 0.02150159
+++++++++++++++++++++++++++++++++
+Result 451
+but mo getting failed
+wait until it gets complete
+Similarity Score : 0.02147745
+++++++++++++++++++++++++++++++++
+Result 452
+Sir is it correct now?
+assignment we should not suppose to assist
+Similarity Score : 0.021010157
+++++++++++++++++++++++++++++++++
+Result 453
+Hi it says the monomer is not created while trying exercise 2
+save it first and try
+Similarity Score : 0.020862265
+++++++++++++++++++++++++++++++++
+Result 454
+input engine is not running in simulation
+check if u have bonded hydrogen in butadine; hydrogen bond is not required- you will be calculating charges and force manually that will calculate the  hydrogen  atoms; it is a duplicate look at styrene we use only C bonds, H is taken care similarly model for butadien 
+Similarity Score : 0.0206354
+++++++++++++++++++++++++++++++++
+Result 455
+without closing is it possible ?
+okay continue
+Similarity Score : 0.020408615
+++++++++++++++++++++++++++++++++
+Result 456
+it should be assigned seperately for modal as well as harmonic
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.020349016
+++++++++++++++++++++++++++++++++
+Result 457
+are you manually closing help section?
+tutorial has each n every step to be done
+Similarity Score : 0.020152172
+++++++++++++++++++++++++++++++++
+Result 458
+hi we can skip the fine adjustment section right....
+pls follow tutorial
+Similarity Score : 0.019798342
+++++++++++++++++++++++++++++++++
+Result 459
+fork error was there earlier.. now the simulation is not moving foward..showing elasped time0.00
+Exit all opened J-OCTA and Restart the J-OCTA programme. It mostly occurs due to Multiple  J-octa window.
+Similarity Score : 0.019639373
+++++++++++++++++++++++++++++++++
+Result 460
+polymer simulation is not happening?
+pls redo without giving space for file name
+Similarity Score : 0.018980859
+++++++++++++++++++++++++++++++++
+Result 461
+do i need to save my files as well?
+   yes and Take screen shots of results and prepare report in any format like ppt or pdf etc.,
+Similarity Score : 0.01897495
+++++++++++++++++++++++++++++++++
+Result 462
+i am unable to save tutorial pdf file
+plz check your mail after 2 min we will send u
+Similarity Score : 0.01896775
+++++++++++++++++++++++++++++++++
+Result 463
+its not creating output file help
+if u have bonded hydrogen in butadine; hydrogen bond is not required-
+Similarity Score : 0.018967312
+++++++++++++++++++++++++++++++++
+Result 464
+while loading the input file and starting the simulation engine it is not running
+check if u have bonded hydrogen in butadine; hydrogen bond is not required- you will be calculating charges and force manually that will calculate the  hydrogen  atoms; it is a duplicate look at styrene we use only C bonds, H is taken care similarly model for butadien 
+Similarity Score : 0.018348541
+++++++++++++++++++++++++++++++++
+Result 465
+Hi Sir.. Problem with Jocta
+Sometime its happenes because of improper following steps in tutorials. Plz close the software and reopwn and redo.
+Similarity Score : 0.01812873
+++++++++++++++++++++++++++++++++
+Result 466
+It is solving.. should I plot the results?
+no.... u have to solve and take screen shot of results and make a report,
+Similarity Score : 0.0179146
+++++++++++++++++++++++++++++++++
+Result 467
+while creating a monomer.... i was trying to drag elements and explored this option
+we can be support tutorial based level
+Similarity Score : 0.017633738
+++++++++++++++++++++++++++++++++
+Result 468
+why the engine is not running?
+check if u have bonded hydrogen in butadine; hydrogen bond is not required- you will be calculating charges and force manually that will calculate the  hydrogen  atoms; it is a duplicate look at styrene we use only C bonds, H is taken care similarly model for butadien 
+Similarity Score : 0.017088994
+++++++++++++++++++++++++++++++++
+Result 469
+can you check if the monomer analysis results shows correct picture?
+compare with pfd results
+Similarity Score : 0.017003551
+++++++++++++++++++++++++++++++++
+Result 470
+while performing the polystyrene practical i was entered all the input as per the mention in training pdf
+recheck inputs
+Similarity Score : 0.0169178
+++++++++++++++++++++++++++++++++
+Result 471
+ok.. Also Why am unable to see Cluster Results in Analysis Settings in HArmonic
+In analysis setting option solution method the full is that changes to mode super position
+Similarity Score : 0.016895402
+++++++++++++++++++++++++++++++++
+Result 472
+i have to click the bond and then atom and drag to other atom
+   yes
+Similarity Score : 0.016868606
+++++++++++++++++++++++++++++++++
+Result 473
+But to complete monomer, I have to follow same procedure as in styrene, Right?
+yes
+Similarity Score : 0.016650496
+++++++++++++++++++++++++++++++++
+Result 474
+how do we do copolymers. ..
+pls close and continue in next
+Similarity Score : 0.016515221
+++++++++++++++++++++++++++++++++
+Result 475
+engine not RUNNING??
+check if u have bonded hydrogen in butadine; hydrogen bond is not required- you will be calculating charges and force manually that will calculate the  hydrogen  atoms; it is a duplicate look at styrene we use only C bonds, H is taken care similarly model for butadien 
+Similarity Score : 0.015881145
+++++++++++++++++++++++++++++++++
+Result 476
+can you help to get the Exercise 2 & 3 on my local computer. Because reading on remote is moving the slide up & down and disturbing
+please use in remote system,amd try to copy n paste the folder
+Similarity Score : 0.015880423
+++++++++++++++++++++++++++++++++
+Result 477
+How to load Vi file in labview. File is in my laptop.
+now the support is not extended for Multisim and Labview in Wise
+Similarity Score : 0.015833855
+++++++++++++++++++++++++++++++++
+Result 478
+icon not comming
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.015783532
+++++++++++++++++++++++++++++++++
+Result 479
+when i run input  with in seconds it turns back to orig
+ u have given space in ur file name
+Similarity Score : 0.01563683
+++++++++++++++++++++++++++++++++
+Result 480
+dose this remote system has office excel to copy the results
+no
+Similarity Score : 0.015566357
+++++++++++++++++++++++++++++++++
+Result 481
+after MM CALULATIONS, coordinates are not matching with tutorial
+check the inputs againg
+Similarity Score : 0.015440304
+++++++++++++++++++++++++++++++++
+Result 482
+engine is not running
+check if u have bonded hydrogen in butadine; hydrogen bond is not required- you will be calculating charges and force manually that will calculate the  hydrogen  atoms; it is a duplicate look at styrene we use only C bonds, H is taken care similarly model for butadien 
+Similarity Score : 0.015276343
+++++++++++++++++++++++++++++++++
+Result 483
+execution process % is not running
+.Don't add Space or any special Characters while creating folder name and new project.
+Similarity Score : 0.015183116
+++++++++++++++++++++++++++++++++
+Result 484
+Can you pl for butadiene?ease atleast tell me chemical formula
+read the problem statement
+Similarity Score : 0.015065155
+++++++++++++++++++++++++++++++++
+Result 485
+bt where i wl get dat
+jus double click on th required entities u get the table with values
+Similarity Score : 0.015057898
+++++++++++++++++++++++++++++++++
+Result 486
+Butadiene – 10 & Styrene 5 repeats?? what does this mean?
+That means monomer  chain repeats 5 times in polymer modeling
+Similarity Score : 0.014897712
+++++++++++++++++++++++++++++++++
+Result 487
+not getting the results
+.Don't add Space or any special Characters while creating folder name and new project.
+Similarity Score : 0.014893989
+++++++++++++++++++++++++++++++++
+Result 488
+I think it gives error for crerating new monomer
+redo n follow the tutorial
+Similarity Score : 0.0147333
+++++++++++++++++++++++++++++++++
+Result 489
+sir i removed hydrogen still not run
+there s a space in ur folder name check correctly
+Similarity Score : 0.014726039
+++++++++++++++++++++++++++++++++
+Result 490
+hey how do we test copolymers???
+pls close and continue in next
+Similarity Score : 0.014536221
+++++++++++++++++++++++++++++++++
+Result 491
+When I do molecular orbital to create charge my standard charge is still 0
+jus follow the tutorial steps
+Similarity Score : 0.013842751
+++++++++++++++++++++++++++++++++
+Result 492
+not able to see the C atom
+To Show the 'C' in design panel -> Click on [show C] or [Hide C](it is available above the above the design panel area)
+Similarity Score : 0.013832639
+++++++++++++++++++++++++++++++++
+Result 493
+created bond but facing problem with alignment..
+plz jus follow the tutorial
+Similarity Score : 0.013763807
+++++++++++++++++++++++++++++++++
+Result 494
+prevously also i got stuck at the same point as engine was not running
+check if u have bonded hydrogen in butadine; hydrogen bond is not required- you will be calculating charges and force manually that will calculate the  hydrogen  atoms; it is a duplicate look at styrene we use only C bonds, H is taken care similarly model for butadien 
+Similarity Score : 0.013736402
+++++++++++++++++++++++++++++++++
+Result 495
+Am trying to rum the simulation in jocta, it's not running
+Don't add Space or any special Characters while creating folder name and new project.
+Similarity Score : 0.013643828
+++++++++++++++++++++++++++++++++
+Result 496
+still the run is not happening
+there s a space in ur folder name
+Similarity Score : 0.013527052
+++++++++++++++++++++++++++++++++
+Result 497
+sir i dont know J-octa and i need flownex to complete my assignment
+pls connect with id to access Flownex
+Similarity Score : 0.013082483
+++++++++++++++++++++++++++++++++
+Result 498
+I cant see p drive
+refer tutorial and remember don't use space while creating new project
+Similarity Score : 0.01284912
+++++++++++++++++++++++++++++++++
+Result 499
+sir  input.udf file excecution is not running
+Don't add Space or any special Characters while creating folder name and new project.
+Similarity Score : 0.012808684
+++++++++++++++++++++++++++++++++
+Result 500
+no output file generated
+check the steps againg
+Similarity Score : 0.012751166
+++++++++++++++++++++++++++++++++
+Result 501
+i have closed all monomers then also its not running?
+follow th tutorial step by step clearly
+Similarity Score : 0.012644372
+++++++++++++++++++++++++++++++++
+Result 502
+its not running,can u please guide sir
+check your Inputs
+Similarity Score : 0.012540444
+++++++++++++++++++++++++++++++++
+Result 503
+should i close and reopen any on of the drive aa ??
+yes plz proceed
+Similarity Score : 0.01242997
+++++++++++++++++++++++++++++++++
+Result 504
+sir  in input.udf file excecution is not running
+.Don't add Space or any special Characters while creating folder name and new project.
+Similarity Score : 0.012306031
+++++++++++++++++++++++++++++++++
+Result 505
+Do we have any way to get image from tool
+print screen
+Similarity Score : 0.012096693
+++++++++++++++++++++++++++++++++
+Result 506
+Can you help not able to get output file
+check the steps againg
+Similarity Score : 0.011566198
+++++++++++++++++++++++++++++++++
+Result 507
+polymer simulation is not running
+bounty condition   you need to assign propyl
+Similarity Score : 0.011363048
+++++++++++++++++++++++++++++++++
+Result 508
+the simulation is not running
+if the inputs are missing then it will not run, check d inputs from begining
+Similarity Score : 0.011310576
+++++++++++++++++++++++++++++++++
+Result 509
+need a help in jocta
+1st Answer:Follow the tutorial step by step properly
+Similarity Score : 0.011216625
+++++++++++++++++++++++++++++++++
+Result 510
+while doing monomer analysis the results are not matching with the tutorial
+check the inputs
+Similarity Score : 0.010561685
+++++++++++++++++++++++++++++++++
+Result 511
+sry...m asking before starting d  project i need to save the file..so i should save it?In my local computer Drive??
+Saving: Please save the file only in Personal Directory,
+Similarity Score : 0.010182011
+++++++++++++++++++++++++++++++++
+Result 512
+What do we mean by simulation conditions in this tutorial
+It is a typical polymer simulation setting which has the capability to handle the monomer and polymer u designed
+Similarity Score : 0.00891847
+++++++++++++++++++++++++++++++++
+Result 513
+but i am facing problem with providing properties to the boundry conditions
+Do only those listed
+Similarity Score : 0.008773442
+++++++++++++++++++++++++++++++++
+Result 514
+looks like I had to rename the polymer as polystyrene?
+no needits okay it is just a name\
+Similarity Score : 0.008527664
+++++++++++++++++++++++++++++++++
+Result 515
+After MM calculation, the results are not matching with the provided results
+have u set converging force to 1
+Similarity Score : 0.007944636
+++++++++++++++++++++++++++++++++
+Result 516
+in j-octa,st of all where i should create NEW PROJECT i mn in my Local drive or google drive?
+Take screen shots of results and prepare report in any format like ppt or pdf etc.,
+Similarity Score : 0.007902527
+++++++++++++++++++++++++++++++++
+Result 517
+not able to find p drive
+save it in desktop
+Similarity Score : 0.0074300715
+++++++++++++++++++++++++++++++++
+Result 518
+my video injocta i snot showing animation
+remove space in filename
+Similarity Score : 0.0073533477
+++++++++++++++++++++++++++++++++
+Result 519
+iam  getting a message like server error and it got resolved saying site certificate issue
+pl install the software
+Similarity Score : 0.0071287286
+++++++++++++++++++++++++++++++++
+Result 520
+the Analyse options are not comming up as mentioned in the video
+plz follow the tutorial which i have given
+Similarity Score : 0.0058556427
+++++++++++++++++++++++++++++++++
+Result 521
+model not found  in c drive
+refer tutorial drie
+Similarity Score : 0.0038498552
+++++++++++++++++++++++++++++++++

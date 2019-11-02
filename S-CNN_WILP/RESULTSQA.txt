@@ -1,0 +1,1222 @@
+Question is my software is not responding
+++++++++++++++++++++++++++++++++
+Result 1
+dear sir after selecting the flownex only blank black screen is coming
+disconnect and connect again
+Similarity Score : 0.4326095
+++++++++++++++++++++++++++++++++
+Result 2
+no same only black screen is coming
+disconnect and connect again
+Similarity Score : 0.4326095
+++++++++++++++++++++++++++++++++
+Result 3
+but how to solve issue
+disconnect and connect again
+Similarity Score : 0.4326095
+++++++++++++++++++++++++++++++++
+Result 4
+Flownex not opening
+disconnect and connect again
+Similarity Score : 0.4326095
+++++++++++++++++++++++++++++++++
+Result 5
+sir flow nex not open
+disconnect and connect again
+Similarity Score : 0.4326095
+++++++++++++++++++++++++++++++++
+Result 6
+For what sir Plzzzz I am asking that may I close the tutorial 1 not the flownex is it saved automatically
+Flownex will not save automatically
+Similarity Score : 0.4279767
+++++++++++++++++++++++++++++++++
+Result 7
+Solver not running..
+close software, and reopen
+Similarity Score : 0.42382234
+++++++++++++++++++++++++++++++++
+Result 8
+flownex is not running screen ideal for last 5 mins
+u r not launched citrix properly....
+Similarity Score : 0.41713586
+++++++++++++++++++++++++++++++++
+Result 9
+I am not getting property of node 9
+open flownex application'
+Similarity Score : 0.39456072
+++++++++++++++++++++++++++++++++
+Result 10
+Software is not responding
+close and open again
+Similarity Score : 0.36558968
+++++++++++++++++++++++++++++++++
+Result 11
+Library not able to locate...
+u just need to reset
+Similarity Score : 0.36549288
+++++++++++++++++++++++++++++++++
+Result 12
+no flownex is not working
+close all application and reopen
+Similarity Score : 0.34944433
+++++++++++++++++++++++++++++++++
+Result 13
+I am not able to launch flownex
+close all application and reopen
+Similarity Score : 0.34944433
+++++++++++++++++++++++++++++++++
+Result 14
+if i right click on pure fluid i m getting only Explore option
+plz follow our instructions
+Similarity Score : 0.34660318
+++++++++++++++++++++++++++++++++
+Result 15
+Flownex was working fine till now suddenly it started with troubles now I am left with only 15 minutes pl help. black window is appearing. there is no issue of net speed
+okay close all applications and open again
+Similarity Score : 0.31723097
+++++++++++++++++++++++++++++++++
+Result 16
+The window is showing my project icon at lower left corner nothing else
+okay close all applications and open again
+Similarity Score : 0.31723097
+++++++++++++++++++++++++++++++++
+Result 17
+even before selecting apps it moves to flownex in another tab & then nothing happens
+okay close all applications and open again
+Similarity Score : 0.31723097
+++++++++++++++++++++++++++++++++
+Result 18
+Sir, flownex stopped all of a sudden
+okay close all applications and open again
+Similarity Score : 0.31723097
+++++++++++++++++++++++++++++++++
+Result 19
+in designer setting property window, i am not able to find total pressure for restrictor one
+okay close all applications and open again
+Similarity Score : 0.31723097
+++++++++++++++++++++++++++++++++
+Result 20
+flownex is not starting
+okay close all applications and open again
+Similarity Score : 0.31723097
+++++++++++++++++++++++++++++++++
+Result 21
+not starting flownex please help
+okay close all applications and open again
+Similarity Score : 0.31723097
+++++++++++++++++++++++++++++++++
+Result 22
+not found flownex icon
+Flownex already opened please proceed further
+Similarity Score : 0.31397206
+++++++++++++++++++++++++++++++++
+Result 23
+again disconnected.pls help
+if disconnect loginagain
+Similarity Score : 0.31317097
+++++++++++++++++++++++++++++++++
+Result 24
+very slow response on flownex
+Flownex will launch slowly
+Similarity Score : 0.30830362
+++++++++++++++++++++++++++++++++
+Result 25
+but not getting ventury meter
+There is no venturi  meter in flownex
+Similarity Score : 0.3058003
+++++++++++++++++++++++++++++++++
+Result 26
+Read how to create  elements nodes & bc
+plz follow the tutorial
+Similarity Score : 0.28409535
+++++++++++++++++++++++++++++++++
+Result 27
+basic pipe properties window result tab not showing
+check your inputs
+Similarity Score : 0.282887
+++++++++++++++++++++++++++++++++
+Result 28
+total mass flow is not showing
+check your inputs
+Similarity Score : 0.282887
+++++++++++++++++++++++++++++++++
+Result 29
+sir  Pipe property how open
+double click on pipe
+Similarity Score : 0.28156123
+++++++++++++++++++++++++++++++++
+Result 30
+flownex drg page hang
+close all applications and open again
+Similarity Score : 0.27299833
+++++++++++++++++++++++++++++++++
+Result 31
+Not visible after mention in input data
+follow rtutorial step by step
+Similarity Score : 0.26187676
+++++++++++++++++++++++++++++++++
+Result 32
+commands are not visible in project window
+follow rtutorial step by step
+Similarity Score : 0.26187676
+++++++++++++++++++++++++++++++++
+Result 33
+Can I save file step wise ? or after feed the all Inputs
+follow rtutorial step by step
+Similarity Score : 0.26187676
+++++++++++++++++++++++++++++++++
+Result 34
+As per template result screenshot taken during Run Solver or Postprocessor
+follow rtutorial step by step
+Similarity Score : 0.26187676
+++++++++++++++++++++++++++++++++
+Result 35
+Where is the venturi flow meter ..?
+follow rtutorial step by step
+Similarity Score : 0.26187676
+++++++++++++++++++++++++++++++++
+Result 36
+Yaah but where Flownex SE
+follow rtutorial step by step
+Similarity Score : 0.26187676
+++++++++++++++++++++++++++++++++
+Result 37
+Ok but how go back in step 8
+follow rtutorial step by step
+Similarity Score : 0.26187676
+++++++++++++++++++++++++++++++++
+Result 38
+Library not able to view
+follow rtutorial step by step
+Similarity Score : 0.26187676
+++++++++++++++++++++++++++++++++
+Result 39
+Flow Slover Not execute
+there is no boundary condition plz set
+Similarity Score : 0.25114018
+++++++++++++++++++++++++++++++++
+Result 40
+i am not getting venturimeter in flonex
+There will not be venturi meter  You need to use restrictor  with discharge coefficient
+Similarity Score : 0.24444683
+++++++++++++++++++++++++++++++++
+Result 41
+so, how do I continue with the same file
+u can complete now or start again with another system
+Similarity Score : 0.2417768
+++++++++++++++++++++++++++++++++
+Result 42
+ i am facing problem with providing properties to the boundry conditions
+Do only those listed
+Similarity Score : 0.233414
+++++++++++++++++++++++++++++++++
+Result 43
+Unable to change critical press value
+plz read the tutorial pdf properly
+Similarity Score : 0.23302507
+++++++++++++++++++++++++++++++++
+Result 44
+i m unable to launch flownex
+close all applications and launch again
+Similarity Score : 0.2219096
+++++++++++++++++++++++++++++++++
+Result 45
+sir , i am unable to launch application
+close all applications and launch again
+Similarity Score : 0.2219096
+++++++++++++++++++++++++++++++++
+Result 46
+now only black screen is appearing
+close all applications and launch again
+Similarity Score : 0.2219096
+++++++++++++++++++++++++++++++++
+Result 47
+reopened flownex, yet all tabs are inactive, why??
+close all applications and launch again
+Similarity Score : 0.2219096
+++++++++++++++++++++++++++++++++
+Result 48
+flownex slow down
+Check Internet
+Similarity Score : 0.21895392
+++++++++++++++++++++++++++++++++
+Result 49
+no still external chartes and lookup table option is not there
+do it again and let me know
+Similarity Score : 0.20470522
+++++++++++++++++++++++++++++++++
+Result 50
+I am not  seeing Heat transfer headings in Pipe-1 Properties
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 51
+I am not getting Fluid data reference
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 52
+i have been there but it is giving error message and asked to contact ID administrator
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 53
+can you help me how to update the drawing by refreshing in the software
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 54
+Unable to edit pressure value
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 55
+how to go thr flownex lab
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 56
+please guide hoe to prcoceded
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 57
+can you send step by step procedure for doing Flownex lab  for first time
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 58
+please guide how to start practice on flownex
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 59
+SIR , can i see my saved project on flownex as the results saved are hided for boundary conditions
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 60
+sir how to set genral properties of fluiid through projct data
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 61
+sir upto assign fluid i got it ... but if u pls once see the tutorials next step then there is manual entry of setting of properties.. i searched lot but i didnt find the option to set it
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 62
+that i got it sit .. but unable to enter manual .. wll u pls see.. i will do ..
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 63
+i need heat transfer componant
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 64
+i am unable to save tutorial pdf file
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 65
+followed but fluid is not listing in drop down
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 66
+created fluid yet not coming in drop down
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 67
+its after selection of pipe we need to change properties
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 68
+tutorial 2 done as per guidelines but unhandled exception has occured while designer run. pl help.
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 69
+project data base invisible
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 70
+cant minimise pl help sir
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 71
+velocity at the exit to be determined. but not getting value. pl help
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 72
+Ass Q2. i was facing problem that exit velocity comes zero. i have entered all input parameters. also calculated flow 27 kg/s with the help of area & input velocity. simulation converging but not getting correct answer.
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 73
+flownex not getting open
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 74
+how to see graphs
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 75
+i am not able to see reports in graphical format
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 76
+cant find libraries option please help
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 77
+Sir, I have changed from PC to Laptop for practicing flownex. it is not working on laptop. black window is appearing request your help to check setting.
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 78
+values are not displaying on my gauge and restricter
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 79
+please help how to do
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 80
+where is the T joint
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 81
+and what is the validity for keeping this in my documents
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 82
+unable to converge a tutorial on Turbine
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 83
+in flownex tutorial 5 unable to select trigger in action
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 84
+sir m seeing black screen @ flownex
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 85
+sir m getting back screen continusly in flownex
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 86
+ok flownex se not opening
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 87
+closeTab not working
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 88
+May you help me to put pipe wall thickness?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 89
+But it was showing error that was opened earlier
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 90
+Sir Edit Option is not visible in Fluids
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 91
+sir i am not gettin  Convection coefficient option
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 92
+and Hydraulic diameter option to Use hydraulic diameter
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 93
+sir how added Add Drawing Page Rename the pages to 6.1 and
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 94
+sir how to change select the Pipe between Tank A and Tank Band change diameter to 0.05m.Select the Pipe between Tank B and Tank C and change diameter to 0.025 m
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 95
+sir how Set the Value Type to Constant.
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 96
+sir again same problem confused action 2 not open
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 97
+sir step 13,step 14 not understand help me plz
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 98
+my Pipe properties doesnot show an option to input the wall thickness
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 99
+Left pane, command window is disabled
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 100
+Pre process command window is still disabled
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 101
+Flow + solidification analysis not selectef
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 102
+Pls help as it is in solver stage
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 103
+Sir why I could not select the option flow+solidification analysis
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 104
+how to reset layout?
+Follow the tutorial step by step properly.  If you are unable to follown tutorials..plz let us know, we will guide.
+Similarity Score : 0.20236973
+++++++++++++++++++++++++++++++++
+Result 105
+compressible not able to click
+follow tutorial properly, once or twice... read all content carefully7
+Similarity Score : 0.20235063
+++++++++++++++++++++++++++++++++
+Result 106
+fluid assignment window not showing
+follow tutorial properly, once or twice... read all content carefully7
+Similarity Score : 0.20235063
+++++++++++++++++++++++++++++++++
+Result 107
+No sir, i am unable to saving the project
+create a file n continue
+Similarity Score : 0.20224765
+++++++++++++++++++++++++++++++++
+Result 108
+required parameter is not showing
+repeat and checked advance option
+Similarity Score : 0.20177165
+++++++++++++++++++++++++++++++++
+Result 109
+so need to directly open flownex icon in app
+yes
+Similarity Score : 0.20045952
+++++++++++++++++++++++++++++++++
+Result 110
+sir designer configuration issue
+reconnect
+Similarity Score : 0.20045952
+++++++++++++++++++++++++++++++++
+Result 111
+flownex stopped
+reconnect
+Similarity Score : 0.20045952
+++++++++++++++++++++++++++++++++
+Result 112
+So after completion I can close the current one and can open new one
+yes
+Similarity Score : 0.20045952
+++++++++++++++++++++++++++++++++
+Result 113
+Result are minor different .... acceptable or not
+accppetable
+Similarity Score : 0.20045952
+++++++++++++++++++++++++++++++++
+Result 114
+flownex automatically sign out?
+reconnect dont open multiple windows
+Similarity Score : 0.1975072
+++++++++++++++++++++++++++++++++
+Result 115
+cant do anything on screen. it is inactive now
+reconnect dont open multiple windows
+Similarity Score : 0.1975072
+++++++++++++++++++++++++++++++++
+Result 116
+flownex not opening instead of restart
+reconnect dont open multiple windows
+Similarity Score : 0.1975072
+++++++++++++++++++++++++++++++++
+Result 117
+flownex sign out automatically
+reconnect dont open multiple windows
+Similarity Score : 0.1975072
+++++++++++++++++++++++++++++++++
+Result 118
+wall thickness option not visible
+click on advanced settiong in th property window and find it
+Similarity Score : 0.19456163
+++++++++++++++++++++++++++++++++
+Result 119
+Sir How can rotate the direction of Comosite Heat Arroow
+follow the tutorial
+Similarity Score : 0.19176343
+++++++++++++++++++++++++++++++++
+Result 120
+Its showing deabled...
+check your previous steps
+Similarity Score : 0.19111985
+++++++++++++++++++++++++++++++++
+Result 121
+sir, how to give velocity as input to the turbine?
+u can put the pipe at the exit of turbine, then u can get the velocity
+Similarity Score : 0.18735787
+++++++++++++++++++++++++++++++++
+Result 122
+how to make straight lines not dotted
+pls check the circuit, that all the components are connected properly
+Similarity Score : 0.18309031
+++++++++++++++++++++++++++++++++
+Result 123
+Will you please tell me the process to save it on personal directory
+You will find tutorial share and personal directory  as like c drive
+Similarity Score : 0.18268031
+++++++++++++++++++++++++++++++++
+Result 124
+hi Sir, are you there. i have a doubt about assigning velocity for the nozzle. i have used restrictor with coefficient
+u can assign the velocity, for that u have 2  make configuration setting for the diameter of restrictor
+Similarity Score : 0.18097728
+++++++++++++++++++++++++++++++++
+Result 125
+ i have a doubt about assigning velocity for the nozzle. i have used restrictor with coefficient
+u can assign the velocity, for that u have 2  make configuration setting for the diameter of restrictor
+Similarity Score : 0.18097728
+++++++++++++++++++++++++++++++++
+Result 126
+in company i have a tank, water enters into the tank by gravity. it is through a nozzle. i have parameters, i need to assign velocity to the nozzle to determine temp & velocity of water going in tank
+u can assign the velocity, for that u have 2  make configuration setting for the diameter of restrictor
+Similarity Score : 0.18097728
+++++++++++++++++++++++++++++++++
+Result 127
+Libraries option is not here
+check your internet speed
+Similarity Score : 0.1795848
+++++++++++++++++++++++++++++++++
+Result 128
+HOW TO VIEW TUTORIAL VIDEOS IN FLONEX
+Plz go through the PDF tutorials
+Similarity Score : 0.17891678
+++++++++++++++++++++++++++++++++
+Result 129
+dear sir we are unable to get venturi meter
+plz check in project data base
+Similarity Score : 0.16635293
+++++++++++++++++++++++++++++++++
+Result 130
+I am unable to assign pipe wall thickness in tutorial no 6 please help
+click on advanced settings as shown
+Similarity Score : 0.16555125
+++++++++++++++++++++++++++++++++
+Result 131
+not finding ok button
+Resize It's at bottom
+Similarity Score : 0.16176996
+++++++++++++++++++++++++++++++++
+Result 132
+i am not able solve study state
+pls rectify th errors n warnings
+Similarity Score : 0.16157275
+++++++++++++++++++++++++++++++++
+Result 133
+I'm not getting the the plot
+follow the tutorial input correctly
+Similarity Score : 0.16134545
+++++++++++++++++++++++++++++++++
+Result 134
+am not getting my preious figure
+First open the tutorial  drive and practice  flownex 5 TUTORIALS
+Similarity Score : 0.16092104
+++++++++++++++++++++++++++++++++
+Result 135
+all component selected at a time
+nope its getting selected separately
+Similarity Score : 0.15974921
+++++++++++++++++++++++++++++++++
+Result 136
+Ex unit not dispalying
+browse the pressure u will get Fixed on user total value
+Similarity Score : 0.15646926
+++++++++++++++++++++++++++++++++
+Result 137
+Fixed on User value not displaying
+browse the pressure u will get Fixed on user total value
+Similarity Score : 0.15646926
+++++++++++++++++++++++++++++++++
+Result 138
+pressure is not editable
+It is saying not specified, browse and select user specified
+Similarity Score : 0.15441385
+++++++++++++++++++++++++++++++++
+Result 139
+Icon not coming
+go to view and reset layout
+Similarity Score : 0.15327181
+++++++++++++++++++++++++++++++++
+Result 140
+I am not getting Librairies option in FLOWNEX
+go to view - reset the layout
+Similarity Score : 0.15223166
+++++++++++++++++++++++++++++++++
+Result 141
+when they are selecting that option they are having view of list of charts from where they are selecting chart
+only refer pdf tutorial which is in tutorial share drive
+Similarity Score : 0.15003662
+++++++++++++++++++++++++++++++++
+Result 142
+that only different
+check your inputs , u had missed the some value to enter in the inputs
+Similarity Score : 0.14802866
+++++++++++++++++++++++++++++++++
+Result 143
+so that mass flow not showing
+check your inputs , u had missed the some value to enter in the inputs
+Similarity Score : 0.14802866
+++++++++++++++++++++++++++++++++
+Result 144
+Unable to do step 6 prop for op fluid
+add pure fluids - liquid - and then name it the fluid u want to - edit the properties
+Similarity Score : 0.1474303
+++++++++++++++++++++++++++++++++
+Result 145
+exit velocity is asked. 100% converging but result not coming. pl help sir..
+check whether u have given inputs as needed n check th units also
+Similarity Score : 0.1439786
+++++++++++++++++++++++++++++++++
+Result 146
+sir, not getting abs velocity in turbine result
+check whether u have given inputs as needed n check th units also
+Similarity Score : 0.1439786
+++++++++++++++++++++++++++++++++
+Result 147
+it has opened with black window & icons for home, CTrl+alt+del, shortcuts, etc
+Black window,  Sue to multiple window open
+Similarity Score : 0.14397742
+++++++++++++++++++++++++++++++++
+Result 148
+how to Link each Boundary Condition to a Node.
+Please check your network and connect all the components properly.
+Similarity Score : 0.14367461
+++++++++++++++++++++++++++++++++
+Result 149
+boundary condition not showing pressure but shows temperature
+Please check your network and connect all the components properly.
+Similarity Score : 0.14367461
+++++++++++++++++++++++++++++++++
+Result 150
+help to get pressure option in connection boundaries
+Please check your network and connect all the components properly.
+Similarity Score : 0.14367461
+++++++++++++++++++++++++++++++++
+Result 151
+Dear Team When I tried to assign properties to boundary condition pressure boundary condition is not there
+Please check your network and connect all the components properly.
+Similarity Score : 0.14367461
+++++++++++++++++++++++++++++++++
+Result 152
+Pressure boundary condition is not there
+Please check your network and connect all the components properly.
+Similarity Score : 0.14367461
+++++++++++++++++++++++++++++++++
+Result 153
+Sir why the pipe not dragged on canvas
+In the component window-> expand the Flownex -> again expand the required option and drag the respective component on the " Drawing Page(Canvas)".
+Similarity Score : 0.14138693
+++++++++++++++++++++++++++++++++
+Result 154
+there is some problm in selection componant
+In the component window-> expand the Flownex -> again expand the required option and drag the respective component on the " Drawing Page(Canvas)".
+Similarity Score : 0.14138693
+++++++++++++++++++++++++++++++++
+Result 155
+Result is not atching
+check the all inputs and boundary condtions again from starting
+Similarity Score : 0.13964783
+++++++++++++++++++++++++++++++++
+Result 156
+IT ONLY SHOWS SPECIFY ADVANCE
+Scroll down you will find the advanced option click and active
+Similarity Score : 0.13898318
+++++++++++++++++++++++++++++++++
+Result 157
+while assigning fluid no fluid type is coming
+diuble click on component
+Similarity Score : 0.13708091
+++++++++++++++++++++++++++++++++
+Result 158
+But how can restore
+if u save the file then u can restore
+Similarity Score : 0.13665392
+++++++++++++++++++++++++++++++++
+Result 159
+the option can not find unit shows can not able to enter the length
+double click on pipe and open the property window den u can enter inputs
+Similarity Score : 0.13561356
+++++++++++++++++++++++++++++++++
+Result 160
+hii... I am working on flownex and watching tutorial 1. The issue i am facing is i am not having external libraries option in right side box as shown in tutorial. How can i get that
+reset the layout and go to view
+Similarity Score : 0.13322987
+++++++++++++++++++++++++++++++++
+Result 161
+Again the same screen of adjusting screen setting is displayed
+If the screen is small go to system aspect ratio and change
+Similarity Score : 0.13243467
+++++++++++++++++++++++++++++++++
+Result 162
+can i assume diameter. it is not given in the problem
+if u know velocity u can calculate th dimensions n put it
+Similarity Score : 0.13180417
+++++++++++++++++++++++++++++++++
+Result 163
+Sir , Total Mass flow is differ from tutorial  01  # 51.2034790 and observed value 57.3130438866452, Acceptable or not
+yes acceptable..no issue
+Similarity Score : 0.13169467
+++++++++++++++++++++++++++++++++
+Result 164
+cant resize
+From corner you can resize
+Similarity Score : 0.13044803
+++++++++++++++++++++++++++++++++
+Result 165
+In blank space Can we fill the name of problem or complete problem content ?
+in "_given problem_"  u need to fill th problrem name
+Similarity Score : 0.12984845
+++++++++++++++++++++++++++++++++
+Result 166
+Sir, Final result is not shown
+check tutor to view it
+Similarity Score : 0.12516814
+++++++++++++++++++++++++++++++++
+Result 167
+Can u help me  for Labview software
+Right now the support is not extended for Multisim and Labview in Wise Hangouts, kindly go to cloud softwaer central
+Similarity Score : 0.12199788
+++++++++++++++++++++++++++++++++
+Result 168
+Sir pl guide how to find library option in flonex
+on the left side u can find component lib
+Similarity Score : 0.12061954
+++++++++++++++++++++++++++++++++
+Result 169
+Sir, ERROR! occured during solve steady state
+check the steps in the tutorial
+Similarity Score : 0.11950888
+++++++++++++++++++++++++++++++++
+Result 170
+i am not able to drag sybols. pl help
+press left botton and drag that component
+Similarity Score : 0.11718317
+++++++++++++++++++++++++++++++++
+Result 171
+material& fluids not found
+It is there go to project database
+Similarity Score : 0.11685418
+++++++++++++++++++++++++++++++++
+Result 172
+Tutorial22, checked the parameters twice but still a message of designer did not converge
+please check all the relevence inputs once again
+Similarity Score : 0.1162159
+++++++++++++++++++++++++++++++++
+Result 173
+Mass source boundary condition not able to update
+When you close pressure bc you get mass activated
+Similarity Score : 0.11594324
+++++++++++++++++++++++++++++++++
+Result 174
+i am not able to get thness option in pipe prop window. pl guide
+  use pipe instead of basics pipe enter the inputs and procced
+Similarity Score : 0.11501793
+++++++++++++++++++++++++++++++++
+Result 175
+the problem statement is avilable with me now & i want to input pipe thickness
+  use pipe instead of basics pipe enter the inputs and procced
+Similarity Score : 0.11501793
+++++++++++++++++++++++++++++++++
+Result 176
+but i  m not able to see ANSYS icon in flonex
+in manual its an example shown how to open th software
+Similarity Score : 0.11493917
+++++++++++++++++++++++++++++++++
+Result 177
+that option is not visible in the properties window
+Go to property window of the pipe and tick the advanced setting.
+Similarity Score : 0.112774216
+++++++++++++++++++++++++++++++++
+Result 178
+wall thick is not visible in pipe geometry
+go to property window of the pipe and tick the advanced setting
+Similarity Score : 0.112774216
+++++++++++++++++++++++++++++++++
+Result 179
+Sir, Flow and geometry variable not found
+go to property window of the pipe and tick the advanced setting
+Similarity Score : 0.112774216
+++++++++++++++++++++++++++++++++
+Result 180
+sir i am not getting  Wall thickness option
+Go to property window of the pipe and tick the advanced setting.
+Similarity Score : 0.112774216
+++++++++++++++++++++++++++++++++
+Result 181
+sir i am not getting  Wall thickness option plz help me
+Go to property window of the pipe and tick the advanced setting.
+Similarity Score : 0.112774216
+++++++++++++++++++++++++++++++++
+Result 182
+not showing any fluid in dropdown
+go to project database
+Similarity Score : 0.11275257
+++++++++++++++++++++++++++++++++
+Result 183
+where to get specific entropy in result pane
+find inlet mode n outlet mode entropy open property window of node n calculate u wont get specific entropy directly
+Similarity Score : 0.112683475
+++++++++++++++++++++++++++++++++
+Result 184
+In tutorial 6 we have to add heat exchanger from library .but swe can find the option of laibrary. please mhelp.
+everything is clearly mentioned in the tutorials just follow carefully
+Similarity Score : 0.112256534
+++++++++++++++++++++++++++++++++
+Result 185
+Sir what to do further after completion of tutorials 1 is it needed to be saved
+Proceed with tutorial 2 in tutorial share folder
+Similarity Score : 0.1101027
+++++++++++++++++++++++++++++++++
+Result 186
+thanx sir will try. any dimension pipe?
+u have to put th dimension
+Similarity Score : 0.10978793
+++++++++++++++++++++++++++++++++
+Result 187
+where to put pipe thickness value. pl guide
+click on advance settings in property window and find that option
+Similarity Score : 0.10816687
+++++++++++++++++++++++++++++++++
+Result 188
+Drg is not shown
+save and close the flownex and open again
+Similarity Score : 0.107905895
+++++++++++++++++++++++++++++++++
+Result 189
+Sir, Drawing window is not shown ...only result overview file shown
+save and close the flownex and open again
+Similarity Score : 0.107905895
+++++++++++++++++++++++++++++++++
+Result 190
+flownex not responding
+Click on "Clear" on the error log to clear all the showing errors.
+Similarity Score : 0.10745777
+++++++++++++++++++++++++++++++++
+Result 191
+could you please help me to find error in flownex?
+Click on "Clear" on the error log to clear all the showing errors.
+Similarity Score : 0.10745777
+++++++++++++++++++++++++++++++++
+Result 192
+no sir it is still not working
+Click on "Clear" on the error log to clear all the showing errors.
+Similarity Score : 0.10745777
+++++++++++++++++++++++++++++++++
+Result 193
+Sir, again sftwr not responding
+Click on "Clear" on the error log to clear all the showing errors.
+Similarity Score : 0.10745777
+++++++++++++++++++++++++++++++++
+Result 194
+I am facing problem after launching application of flownex
+Click on "Clear" on the error log to clear all the showing errors.
+Similarity Score : 0.10745777
+++++++++++++++++++++++++++++++++
+Result 195
+Flownex hang.  ???
+Click on "Clear" on the error log to clear all the showing errors.
+Similarity Score : 0.10745777
+++++++++++++++++++++++++++++++++
+Result 196
+flow element result window not finding
+re open the window your slot time is over 04-06 om
+Similarity Score : 0.10533253
+++++++++++++++++++++++++++++++++
+Result 197
+regarding flow element result pl. help sir
+re open the window your slot time is over 04-06 om
+Similarity Score : 0.10533253
+++++++++++++++++++++++++++++++++
+Result 198
+but sir i can not see flow element rsult window
+re open the window your slot time is over 04-06 om
+Similarity Score : 0.10533253
+++++++++++++++++++++++++++++++++
+Result 199
+is  "Charts and lookup table" of my flownex is same as "external charts and looup table"?
+i showed u in screen that is the chats and look up table
+Similarity Score : 0.104072236
+++++++++++++++++++++++++++++++++
+Result 200
+flowelement result not found
+please open the properties windows of basic pipe and select Results
+Similarity Score : 0.10396619
+++++++++++++++++++++++++++++++++
+Result 201
+can i change the orientation of pipe and connnected to reservoir
+select the pipe and chang the orientation by left click
+Similarity Score : 0.10171996
+++++++++++++++++++++++++++++++++
+Result 202
+How to go back Flownex?
+Select the Flownex in Task bar
+Similarity Score : 0.100078374
+++++++++++++++++++++++++++++++++
+Result 203
+sir after selecting the boundary condition the tutorial said change pressur but the option of temperature only is there
+ check there should not be any dotted lines
+Similarity Score : 0.09646343
+++++++++++++++++++++++++++++++++
+Result 204
+also Mouse & curser speed is not matching. in FLOWNEX WINDOW
+save and close the software and reopen it again
+Similarity Score : 0.095687985
+++++++++++++++++++++++++++++++++
+Result 205
+Unable to locate chart/lookup table
+Go to the components window... There are three tabs in the lower side of components window... plaese select second tab which is charts/lookup tables.
+Similarity Score : 0.09337221
+++++++++++++++++++++++++++++++++
+Result 206
+unable to find fluid in drop down
+First create the fluid
+Similarity Score : 0.091855794
+++++++++++++++++++++++++++++++++
+Result 207
+sir software is getting hang..I have tried three times...
+press Alt+Ctrl+delete open  task manager and end all the application now login again and open the software don't open multiple window
+Similarity Score : 0.09056427
+++++++++++++++++++++++++++++++++
+Result 208
+Unable to launch flownex app
+press Alt+Ctrl+delete open  task manager and end all the application now login again and open the software don't open multiple window
+Similarity Score : 0.09056427
+++++++++++++++++++++++++++++++++
+Result 209
+flownex is hung
+press Alt+Ctrl+delete open  task manager and end all the application now login again and open the software don't open multiple window
+Similarity Score : 0.09056427
+++++++++++++++++++++++++++++++++
+Result 210
+System hanged, unable to locate file
+press Alt+Ctrl+delete open  task manager and end all the application now login again and open the software don't open multiple window
+Similarity Score : 0.09056427
+++++++++++++++++++++++++++++++++
+Result 211
+how can i open flownex in that window
+press Alt+Ctrl+delete open  task manager and end all the application now login again and open the software don't open multiple window
+Similarity Score : 0.09056427
+++++++++++++++++++++++++++++++++
+Result 212
+Sir, please open flownex not finding in pc
+press Alt+Ctrl+delete open  task manager and end all the application now login again and open the software don't open multiple window
+Similarity Score : 0.09056427
+++++++++++++++++++++++++++++++++
+Result 213
+Software hanged again
+press Alt+Ctrl+delete open  task manager and end all the application now login again and open the software don't open multiple window
+Similarity Score : 0.09056427
+++++++++++++++++++++++++++++++++
+Result 214
+when assign fluid on rigjt clik to canvas it shoes to circuits but in tutorial only one how to do then to contiuue
+right click on any component and assign the fluid
+Similarity Score : 0.08498508
+++++++++++++++++++++++++++++++++
+Result 215
+Stuck in 9 step boundary conditions
+select boundary conditions  instead of swirl boundary conditio
+Similarity Score : 0.0821015
+++++++++++++++++++++++++++++++++
+Result 216
+My drive not visible here
+plz redo the work and save in personal drive
+Similarity Score : 0.0805994
+++++++++++++++++++++++++++++++++
+Result 217
+Is it possible to add new pure fluid under master database
+do it in project data base
+Similarity Score : 0.079619855
+++++++++++++++++++++++++++++++++
+Result 218
+facing one problem. how to drag & drop parameters from designer set up
+minimise or drag th window or resize th layout size
+Similarity Score : 0.07796949
+++++++++++++++++++++++++++++++++
+Result 219
+Sir how to copy and paste the same network on the canvas
+by making box select all and copy then paste
+Similarity Score : 0.076725796
+++++++++++++++++++++++++++++++++
+Result 220
+Screen is going black
+It seems citrix receiver is not installed properly intsall n reopen
+Similarity Score : 0.07629827
+++++++++++++++++++++++++++++++++
+Result 221
+Sir, Only conduct visible, where can i select tube ?
+click on th tubr option
+Similarity Score : 0.07570404
+++++++++++++++++++++++++++++++++
+Result 222
+mass source properties are not visible
+use project database charts and lookup table
+Similarity Score : 0.07322429
+++++++++++++++++++++++++++++++++
+Result 223
+inspite of entering all input data, not converging. pl help.
+u had selected wrong units
+Similarity Score : 0.06791717
+++++++++++++++++++++++++++++++++
+Result 224
+error shows unidentified coefficient of pipe
+u had selected wrong units
+Similarity Score : 0.06791717
+++++++++++++++++++++++++++++++++
+Result 225
+On right click on pure fluid there should be an option of add category which is not there as per tutorial please help
+material you cant drag right click on the component and assign fluids go to project directory you will be working on master directory scroll up in scheduler u can see chat option at right bottom side. 
+Similarity Score : 0.06522067
+++++++++++++++++++++++++++++++++
+Result 226
+i checked it but i didnt find
+flownex assignment is the name of the file in pdf
+Similarity Score : 0.061856903
+++++++++++++++++++++++++++++++++
+Result 227
+thanx done. now the screen is inactive to run designer
+check th errors n do th needful
+Similarity Score : 0.059855346
+++++++++++++++++++++++++++++++++
+Result 228
+Sir, in flownex tutorial 19 it is asking me to select material & fluids this option is not visible under flownex components
+Right click on any flow component -> select assign fluid -> select the drop down arrow under Fluid... select pure fluids -> select Liquid under category -> select water under description
+Similarity Score : 0.05522119
+++++++++++++++++++++++++++++++++
+Result 229
+100% convergeed but vel appears zero. FSE error
+check th boundary values n units
+Similarity Score : 0.055078905
+++++++++++++++++++++++++++++++++
+Result 230
+Step 8 how to proceed..
+redo the tutorials again
+Similarity Score : 0.055007868
+++++++++++++++++++++++++++++++++
+Result 231
+temp from boundry condition 3 & pipe length
+now enter th min n max length
+Similarity Score : 0.054110266
+++++++++++++++++++++++++++++++++
+Result 232
+i am unable to find material and fluid tab
+Go to charts/lookup tables -> then project database -> expand flownex tree -> expand materials and Fluids -> Right click on pure fluids and select add category ->Assign the fluid.
+Similarity Score : 0.05196353
+++++++++++++++++++++++++++++++++
+Result 233
+while creating operating fluid , i m unable to add new pure fluid
+Go to charts/lookup tables -> then project database -> expand flownex tree -> expand materials and Fluids -> Right click on pure fluids and select add category ->Assign the fluid.
+Similarity Score : 0.05196353
+++++++++++++++++++++++++++++++++
+Result 234
+in liabary material & fluid not found
+Go to charts/lookup tables -> then project database -> expand flownex tree -> expand materials and Fluids -> Right click on pure fluids and select add category ->Assign the fluid.
+Similarity Score : 0.05196353
+++++++++++++++++++++++++++++++++
+Result 235
+Where  do we assign mass flow rate on boundary condition
+Go to charts/lookup tables -> then project database -> expand flownex tree -> expand materials and Fluids -> Right click on pure fluids and select add category ->Assign the fluid.
+Similarity Score : 0.05196353
+++++++++++++++++++++++++++++++++
+Result 236
+Sir, diameter of nozzle is 2" & outlet is 1.5". inlet velocity as seen
+if u have fixed the dai of inlet and exit, velocity will remains constant now velocity will depends on the level of water in tank please complete the flownex circuit according to ur problem
+Similarity Score : 0.04739496
+++++++++++++++++++++++++++++++++
+Result 237
+i want to assign fluid
+Right click on any flow component -> select assign fluid ->  select the drop down arrow under Fluid ->  select pure fluids -> select Liquid under internal -> select H2O - water under description.
+Similarity Score : 0.04042566
+++++++++++++++++++++++++++++++++
+Result 238
+unable to assign fluid in second tutorial
+Right click on any flow component -> select assign fluid ->  select the drop down arrow under Fluid ->  select pure fluids -> select Liquid under internal -> select H2O - water under description.
+Similarity Score : 0.04042566
+++++++++++++++++++++++++++++++++
+Result 239
+SIR FACING PROBLEM FROM STEP G. Please help. flownex tut 5.1
+for step G, select 2nd restrictor and assign the mass flow rate Again click Add then select Item{1} then select restrictor-2 then select results and finally select total mass flow
+Similarity Score : 0.035965372
+++++++++++++++++++++++++++++++++
+Result 240
+Steel tab is not expanding
+Select roughness selection and browse -> expand steel tree as shown in STEP 4 -> the expand button [+] is shown left side on the screen -> near to the steel tree ->  then expand -> select the property -> resize the screen -> press OK button from bottom of screen.
+Similarity Score : 0.03211365
+++++++++++++++++++++++++++++++++
+Result 241
+it is reqd for Tut no. 4 to create gas parameters. pl help
+Select roughness selection and browse -> expand steel tree as shown in STEP 4 -> the expand button [+] is shown left side on the screen -> near to the steel tree ->  then expand -> select the property -> resize the screen -> press OK button from bottom of screen.
+Similarity Score : 0.03211365
+++++++++++++++++++++++++++++++++
+Result 242
+I am unable get the roughness details in tut pl guide
+Select roughness selection and browse -> expand steel tree as shown in STEP 4 -> the expand button [+] is shown left side on the screen -> near to the steel tree ->  then expand -> select the property -> resize the screen -> press OK button from bottom of screen.
+Similarity Score : 0.03211365
+++++++++++++++++++++++++++++++++
+Result 243
+Sir ,now i am working on tutorial ,in that i am not able to drag water on drg page. as per tutorial i have selected Material and fluids liquids in that chart water is there, but as per tutorial no add fluid on right click .please guide
+material you cant drag right click on the component and assign fluids go to project directory you will be working on master directory scroll up in scheduler u can see chat option at right bottom side. Please you chat as per the document provided in the mail
+Similarity Score : 0.024901446
+++++++++++++++++++++++++++++++++
+Result 244
+still outputlet velocity coming zero
+u have area of pipe, so connect a pipe at the outlet of turbine , then u will the velocity in pipe results here u have to select pipe after and before the turbine After that u have to make configuration setup for the temp at the exit so that u can get the dia of pipe
+Similarity Score : 0.021588342
+++++++++++++++++++++++++++++++++
